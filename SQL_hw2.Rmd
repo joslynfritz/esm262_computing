@@ -1,0 +1,164 @@
+---
+title: "Assignment_2"
+author: "Joslyn Fritz"
+date: "5/16/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(tidyverse)
+library(dplyr)
+library(naniar)
+library(data.table)
+library(DBI)
+
+db <- dbConnect(RSQLite::SQLite(), dbname = "survey.db")
+
+```
+
+```{r}
+getwd()
+
+```
+
+**Read in Data and Clean Up**
+
+```{r read in datasets}
+
+#########################################################################################
+# Read in files 
+
+parcels_raw <- read_csv("parcels.csv.zip",
+                        col_types = cols(.default = col_character())) # read in the parcels data
+# parcels data, full zip file
+
+parcels <- parcels_raw %>% 
+  transmute(APN, 
+         Situs1, 
+         Situs2, 
+         Acreage = as.numeric(Acreage), 
+         UseCode, 
+         NonTaxCode, 
+         AgPres, 
+         LandValue = as.numeric(LandValue), 
+         Net_Impr = as.numeric(Net_Impr), 
+         Net_AV = as.numeric(Net_AV), 
+         M_Address1, 
+         M_Address2)
+
+#########################################################################################
+# Create a written document of the parcel and usecodes table using "|" as the delimitter.
+
+parcel_written <- write_delim(parcels,
+  "Santa_Barbara_County_parcels_2011.csv",
+  delim = "|",
+  na = "")
+parcel_written
+
+```
+
+
+**Analyze Data Under Specific Circumstances**
+
+**1. What are the 10 most-frequently-occuring land uses (in descending order)?**
+
+```{r 1, most frequenct land uses}
+
+
+
+```
+
+
+**2. How many acres are in agricultural preserves?**
+
+```{r 2, acres in ag preserves}
+
+ag_acre <- parcels %>% 
+  filter(!is.na(AgPres)) %>% 
+  select(Acreage, AgPres) 
+  
+ag_acre_sum <- sum(ag_acre$Acreage)
+# 547153.3501
+# Summed the acres in the agricultural preserve
+
+```
+
+
+**3. What is the mean net assessed value per acre of the entire county?**
+
+```{r 3, mean net assessed value per acre of county}
+
+value_per_acre <- parcels %>% 
+ select(Acreage, Net_AV) 
+
+value_per_acre
+
+# Reorganized dataframe
+
+NetAV_sum<- (sum(value_per_acre$Net_AV))
+
+acre_sum <- sum(value_per_acre$Acreage) 
+
+# Summed up the Net_AV and the Acreage
+
+NAV_per_acre <- NetAV_sum/acre_sum
+NAV_per_acre 
+
+```
+
+
+**4. What is the total net assessed value of all non-taxable parcels?**
+
+```{r 4, total net value of all non-tax parcels}
+
+nontax_parcels <- parcels %>% 
+  select(NonTaxCode, Net_AV) %>% 
+  filter(!is.na(NonTaxCode))
+
+nontax_parcels_sum <- sum(nontax_parcels$Net_AV)
+nontax_parcels_sum
+# 1,093,026,091
+
+```
+
+
+**5. What are the 10 largest property holders, by acreage?**
+
+```{r 5, ten largest property holders, by acreage}
+
+largest_prop_byacre <- parcels %>% 
+  select(Acreage, M_Address1, M_Address2) %>% 
+  filter(!is.na(M_Address1)) %>% 
+  filter(!is.na(M_Address2)) %>% 
+  group_by(M_Address1, M_Address2) %>% 
+  summarize(sum_acreage = sum(Acreage)) %>% 
+  arrange(-sum_acreage) %>% # descending order (-)
+  head(10) # shows top ten
+
+# Listing the top 10 largest property holders by acreage
+
+```
+
+
+**6. What are the 10 largest property holders, by net assessed value?**
+
+```{r 6, ten largest prop holders, by Net_AV}
+
+parcel_prop_NAV <- parcels %>% 
+  select(Net_AV, M_Address1, M_Address2) %>% 
+  filter(!is.na(M_Address1)) %>% 
+  filter(!is.na(M_Address2)) %>% 
+  group_by(M_Address1, M_Address2) %>% 
+  summarize(sum_NAV = sum(Net_AV)) %>% 
+  arrange(-sum_NAV) %>% 
+  head(10) 
+
+# Listing the 10 largest property holders by Net Assesed Value in descending order
+
+
+```
+
+
+
