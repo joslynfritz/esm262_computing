@@ -1,1351 +1,778 @@
-UseCode.CodeDesc.CdeRetireFlg.RecDateTime.RecUserId
-"0000|Vacant Land|0|12/31/1997|"
-"0001|No Description Available|0||"
-"0003|No Description Available|0|01/06/1999|"
-"0008|No Description Available|0||"
-"0009|No Description Available|0|03/20/1998|"
-"0030|No Description Available|0||"
-"0034|No Description Available|0||"
-"0036|No Description Available|0|03/20/1998|"
-"0040|No Description Available|0||"
-"0041|No Description Available|0|04/14/1999|"
-"0050|Primary Vacant Land with Improvements|0||"
-"0051|No Description Available|0|03/20/1998|"
-"0055|No Description Available|0||"
-"0060|No Description Available|0||"
-"0075|No Description Available|0||"
-"0085|No Description Available|0||"
-"0090|Water Moratorium|0|12/31/1997|"
-"0093|No Description Available|0|03/20/1998|"
-"0099|Downzoning"
-" etc.|0|12/31/1997|"
-"01|No Description Available|0||"
-"0100|Single Family Residence|0|12/31/1997|"
-"0101|No Description Available|0||"
-"0110|No Description Available|0|03/20/1998|"
-"0111|No Description Available|0|03/20/1998|"
-"0120|No Description Available|0|03/20/1998|"
-"0130|Planned Unit Development|0|03/20/1998|"
-"0131|No Description Available|0||"
-"0132|No Description Available|0||"
-"0133|No Description Available|0|03/20/1998|"
-"0134|No Description Available|0||"
-"0135|No Description Available|0||"
-"0150|Residential Estate 3000 sq.ft. (Main residence"
-" ca|0|12/31/1997|"
-"0151|No Description Available|0|03/20/1998|"
-"0153|No Description Available|0||"
-"0154|No Description Available|0||"
-"0155|No Description Available|0|03/20/1998|"
-"0158|No Description Available|0|03/20/1998|"
-"0159|No Description Available|0||"
-"0160|Residential Estate (6000 sq.ft. or more of living|0|12/31/1997|"
-"0163|No Description Available|0||"
-"0169|No Description Available|0|03/20/1998|"
-"0170|No Description Available|0|03/20/1998|"
-"0180|No Description Available|0|03/20/1998|"
-"0190|No Description Available|0|03/20/1998|"
-"0199|Single Family Resale Restricted|0||"
-"0200|Mobile Home|0|12/31/1997|"
-"0210|No Description Available|0|03/20/1998|"
-"0211|No Description Available|0||"
-"0222|No Description Available|0||"
-"0223|No Description Available|0||"
-"0227|No Description Available|0||"
-"0231|No Description Available|0|03/20/1998|"
-"0240|Sited outside M/H Park (P.I.)|0|12/31/1997|"
-"0241|Single Wide New Const. (after 7/1/80)|0|12/31/1997|"
-"0242|Double Wide New Const. (after 7/1/80)|0|12/31/1997|"
-"0243|Larger than D/W New Const. (after 7/1/80)|0|12/31/1997|"
-"0244|Single Wide built 1960-1980|0|12/31/1997|"
-"0245|Double Wide build 1960-1980|0|12/31/1997|"
-"0246|Larger than D/W built 1960-1980|0|12/31/1997|"
-"0247|Single Wide built prior to 1960|0|12/31/1997|"
-"0248|Double Wide built prior to 1960|0|12/31/1997|"
-"0249|Larger than D/W built prior to 1960|0|12/31/1997|"
-"0250|Sited inside M/H Park (P.I.)|0|12/31/1997|"
-"0251|Single Wide New Const. (after 7/1/80)|0|12/31/1997|"
-"0252|Double Wide New Const. (after 7/1/80)|0|12/31/1997|"
-"0253|Larger than D/W New Const. (after 7/1/80)|0|12/31/1997|"
-"0254|Single Wide built 1960-1980|0|12/31/1997|"
-"0255|Double Wide build 1960-1980|0|12/31/1997|"
-"0256|Larger than D/W built 1960-1980|0|12/31/1997|"
-"0257|Single Wide built prior to 1960|0|12/31/1997|"
-"0258|Double Wide built prior to 1960|0|12/31/1997|"
-"0259|Larger than D/W built prior to 1960|0|12/31/1997|"
-"0260|Sited outside M/H Park (Rented)|0|12/31/1997|"
-"0261|Single Wide New Const. (after 7/1/80)|0|12/31/1997|"
-"0262|Double Wide New Const. (after 7/1/80)|0|12/31/1997|"
-"0263|Larger than D/W New Const. (after 7/1/80)|0|12/31/1997|"
-"0264|Single Wide built 1960-1980|0|12/31/1997|"
-"0265|Double Wide build 1960-1980|0|12/31/1997|"
-"0266|Larger than D/W built 1960-1980|0|12/31/1997|"
-"0267|Single Wide built prior to 1960|0|12/31/1997|"
-"0268|Double Wide built prior to 1960|0|12/31/1997|"
-"0269|Larger than D/W built prior to 1960|0|12/31/1997|"
-"0270|Sited inside M/H Park (Rented)|0|12/31/1997|"
-"0271|Single Wide New Const. (after 7/1/80)|0|12/31/1997|"
-"0272|Double Wide New Const. (after 7/1/80)|0|12/31/1997|"
-"0273|Larger than D/W New Const. (after 7/1/80)|0|12/31/1997|"
-"0274|Single Wide built 1960-1980|0|12/31/1997|"
-"0275|Double Wide build 1960-1980|0|12/31/1997|"
-"0276|Larger than D/W built 1960-1980|0|12/31/1997|"
-"0277|Single Wide built prior to 1960|0|12/31/1997|"
-"0278|Double Wide built prior to 1960|0|12/31/1997|"
-"0279|Larger than D/W built prior to 1960|0|12/31/1997|"
-"0280|Sited outside M/H Park (Owned)|0|12/31/1997|"
-"0281|Single Wide New Const. (after 7/1/80)|0|12/31/1997|"
-"0282|Double Wide New Const. (after 7/1/80)|0|12/31/1997|"
-"0283|Larger than D/W New Const. (after 7/1/80)|0|12/31/1997|"
-"0284|Single Wide built 1960-1980|0|12/31/1997|"
-"0285|Double Wide build 1960-1980|0|12/31/1997|"
-"0286|Larger than D/W built 1960-1980|0|12/31/1997|"
-"0287|Single Wide built prior to 1960|0|12/31/1997|"
-"0288|Double Wide built prior to 1960|0|12/31/1997|"
-"0289|Larger than D/W built prior to 1960|0|12/31/1997|"
-"0290|Sited inside M/H Park (Owned)|0|12/31/1997|"
-"0291|Single Wide New Const. (after 7/1/80)|0|12/31/1997|"
-"0292|Double Wide New Const. (after 7/1/80)|0|12/31/1997|"
-"0293|Larger than D/W New Const. (after 7/1/80)|0|12/31/1997|"
-"0294|Single Wide built 1960-1980|0|12/31/1997|"
-"0295|Double Wide build 1960-1980|0|12/31/1997|"
-"0296|Larger than D/W built 1960-1980|0|12/31/1997|"
-"0297|Single Wide built prior to 1960|0|12/31/1997|"
-"0298|Double Wide built prior to 1960|0|12/31/1997|"
-"0299|Larger than D/W built prior to 1960|0|12/31/1997|"
-"0300|Condo|0|12/31/1997|"
-"0301|No Description Available|0||"
-"0302|No Description Available|0|03/20/1998|"
-"0303|No Description Available|0|03/20/1998|"
-"0304|No Description Available|0|03/20/1998|"
-"0306|No Description Available|0|03/20/1998|"
-"0310|Rec. Area - 5-6 class|0|12/31/1997|"
-"0311|Rec. Area - 5-6 class"
-" 500-800 sq. ft.|0|12/31/1997|"
-"0312|Rec. Area - 5-6 class"
-" 800-1000 sq.ft.|0|12/31/1997|"
-"0313|Rec. Area - 5-6 class"
-" 1000-1300 sq.ft.|0|12/31/1997|"
-"0314|Rec. Area - 5-6 class"
-" 1300-1500 sq.ft.|0|12/31/1997|"
-"0315|Rec. Area - 5-6 class"
-" 1500-1800 sq.ft.|0|12/31/1997|"
-"0316|Rec. Area - 5-6 class"
-" 1800-2000 sq.ft.|0|12/31/1997|"
-"0317|Rec. Area - 5-6 class"
-" 2000-2400 sq.ft.|0|12/31/1997|"
-"0318|Rec. Area - 5-6 class"
-" 2400 -up sq.ft.|0|12/31/1997|"
-"0319|No Description Available|0|03/20/1998|"
-"0320|Rec. Area - 7-up class|0|12/31/1997|"
-"0321|Rec. Area - 7-up class"
-" 500-800 sq. ft.|0|12/31/1997|"
-"0322|Rec. Area - 7-up class"
-" 800-1000 sq.ft.|0|12/31/1997|"
-"0323|Rec. Area - 7-up class"
-" 1000-1300 sq.ft.|0|12/31/1997|"
-"0324|Rec. Area - 7-up class"
-" 1300-1500 sq.ft.|0|12/31/1997|"
-"0325|Rec. Area - 7-up class"
-" 1500-1800 sq.ft.|0|12/31/1997|"
-"0326|Rec. Area - 7-up class"
-" 1800-2000 sq.ft.|0|12/31/1997|"
-"0327|Rec. Area - 7-up class"
-" 2000-2400 sq.ft.|0|12/31/1997|"
-"0328|Rec. Area - 7-up class"
-" 2400 -up sq.ft.|0|12/31/1997|"
-"0330|No Rec. Area - 5-6 class|0|12/31/1997|"
-"0331|No Rec. Area - 5-6 class"
-" 500-800 sq. ft.|0|12/31/1997|"
-"0332|No Rec. Area - 5-6 class"
-" 800-1000 sq.ft.|0|12/31/1997|"
-"0333|No Rec. Area - 5-6 class"
-" 1000-1300 sq.ft.|0|12/31/1997|"
-"0334|No Rec. Area - 5-6 class"
-" 1300-1500 sq.ft.|0|12/31/1997|"
-"0335|No Rec. Area - 5-6 class"
-" 1500-1800 sq.ft.|0|12/31/1997|"
-"0336|No Rec. Area - 5-6 class"
-" 1800-2000 sq.ft.|0|12/31/1997|"
-"0337|No Rec. Area - 5-6 class"
-" 2000-2400 sq.ft.|0|12/31/1997|"
-"0338|No Rec. Area - 5-6 class"
-" 2400 -up sq.ft.|0|12/31/1997|"
-"0340|No Rec. Area 7-up class|0|12/31/1997|"
-"0341|No Rec. Area 7-up class"
-" 500-800 sq. ft.|0|12/31/1997|"
-"0342|No Rec. Area 7-up class"
-" 800-1000 sq.ft.|0|12/31/1997|"
-"0343|No Rec. Area 7-up class"
-" 1000-1300 sq.ft.|0|12/31/1997|"
-"0344|No Rec. Area 7-up class"
-" 1300-1500 sq.ft.|0|12/31/1997|"
-"0345|No Rec. Area 7-up class"
-" 1500-1800 sq.ft.|0|12/31/1997|"
-"0346|No Rec. Area 7-up class"
-" 1800-2000 sq.ft.|0|12/31/1997|"
-"0347|No Rec. Area 7-up class"
-" 2000-2400 sq.ft.|0|12/31/1997|"
-"0348|No Rec. Area 7-up class"
-" 2400 -up sq.ft.|0|12/31/1997|"
-"0350|Converted apt - 5-6 class|0|12/31/1997|"
-"0351|Converted apt - 5-6 class"
-" 500-800 sq. ft.|0|12/31/1997|"
-"0352|Converted apt - 5-6 class"
-" 800-1000 sq.ft.|0|12/31/1997|"
-"0353|Converted apt - 5-6 class"
-" 1000-1300 sq.ft.|0|12/31/1997|"
-"0354|Converted apt - 5-6 class"
-" 1300-1500 sq.ft.|0|12/31/1997|"
-"0355|Converted apt - 5-6 class"
-" 1500-1800 sq.ft.|0|12/31/1997|"
-"0356|Converted apt - 5-6 class"
-" 1800-2000 sq.ft.|0|12/31/1997|"
-"0357|Converted apt - 5-6 class"
-" 2000-2400 sq.ft.|0|12/31/1997|"
-"0358|Converted apt - 5-6 class"
-" 2400 -up sq.ft.|0|12/31/1997|"
-"0360|Converted apt - 7-up class|0|12/31/1997|"
-"0361|Converted apt - 7-up class"
-" 500-800 sq. ft.|0|12/31/1997|"
-"0362|Converted apt - 7-up class"
-" 800-1000 sq.ft.|0|12/31/1997|"
-"0363|Converted apt - 7-up class"
-" 1000-1300 sq.ft.|0|12/31/1997|"
-"0364|Converted apt - 7-up class"
-" 1300-1500 sq.ft.|0|12/31/1997|"
-"0365|Converted apt - 7-up class"
-" 1500-1800 sq.ft.|0|12/31/1997|"
-"0366|Converted apt - 7-up class"
-" 1800-2000 sq.ft.|0|12/31/1997|"
-"0367|Converted apt - 7-up class"
-" 2000-2400 sq.ft.|0|12/31/1997|"
-"0368|Converted apt - 7-up class"
-" 2400 -up sq.ft.|0|12/31/1997|"
-"0370|Co-op 5-6 class|0|12/31/1997|"
-"0371|Co-op 5-6 class"
-" 500-800 sq. ft.|0|12/31/1997|"
-"0372|Co-op 5-6 class"
-" 800-1000 sq.ft.|0|12/31/1997|"
-"0373|Co-op 5-6 class"
-" 1000-1300 sq.ft.|0|12/31/1997|"
-"0374|Co-op 5-6 class"
-" 1300-1500 sq.ft.|0|12/31/1997|"
-"0375|Co-op 5-6 class"
-" 1500-1800 sq.ft.|0|12/31/1997|"
-"0376|Co-op 5-6 class"
-" 1800-2000 sq.ft.|0|12/31/1997|"
-"0377|Co-op 5-6 class"
-" 2000-2400 sq.ft.|0|12/31/1997|"
-"0378|Co-op 5-6 class"
-" 2400 -up sq.ft.|0|12/31/1997|"
-"0380|Co-op 7-up class|0|12/31/1997|"
-"0381|Co-op 7-up class"
-" 500-800 sq. ft.|0|12/31/1997|"
-"0382|Co-op 7-up class"
-" 800-1000 sq.ft.|0|12/31/1997|"
-"0383|Co-op 7-up class"
-" 1000-1300 sq.ft.|0|12/31/1997|"
-"0384|Co-op 7-up class"
-" 1300-1500 sq.ft.|0|12/31/1997|"
-"0385|Co-op 7-up class"
-" 1500-1800 sq.ft.|0|12/31/1997|"
-"0386|Co-op 7-up class"
-" 1800-2000 sq.ft.|0|12/31/1997|"
-"0387|Co-op 7-up class"
-" 2000-2400 sq.ft.|0|12/31/1997|"
-"0388|Co-op 7-up class"
-" 2400 -up sq.ft.|0|12/31/1997|"
-"0390|No Description Available|0|03/20/1998|"
-"0391|No Description Available|0|03/20/1998|"
-"0392|No Description Available|0||"
-"0397|No Description Available|0|03/20/1998|"
-"0399|Resale restriction|0||"
-"0400|Residential Rentals|0|12/31/1997|"
-"0402|No Description Available|0|03/20/1998|"
-"0403|No Description Available|0|03/20/1998|"
-"0404|No Description Available|0|03/20/1998|"
-"0411|No Description Available|0|03/20/1998|"
-"0412|No Description Available|0|03/20/1998|"
-"0420|No Description Available|0|03/20/1998|"
-"0421|Residential Rentals"
- 2 Units
-" 1 Building - Designed|0|12/31/1997|"
-"0422|Residential Rentals"
- 2 Units
-" 2 Building - Designed|0|12/31/1997|"
-"0423|Residential Rentals"
- 2 Units
-" 3 Building - Designed|0|12/31/1997|"
-"0424|Residential Rentals"
- 2 Units
- 4 or more Buildings
-" Designed|0|12/31/1997|"
-"0425|Residential Rentals"
- 2 Units
-" 1 Building Converted|0|12/31/1997|"
-"0426|Residential Rentals"
- 2 Units
-" 2 Buildings Converted|0|12/31/1997|"
-"0427|Residential Rentals"
- 2 Units
-" 3 Buildings Converted|0|12/31/1997|"
-"0428|Residential Rentals"
- 2 Units
-" 4 or more Buildings Converted|0|12/31/1997|"
-"0429|Residential Rentals"
- 2 Units
-" Government Restriction|0|12/31/1997|"
-"0430|No Description Available|0|03/20/1998|"
-"0431|Residential Rentals"
- 3 Units
-" 1 Building - Designed|0|12/31/1997|"
-"0432|Residential Rentals"
- 3 Units
-" 2 Building - Designed|0|12/31/1997|"
-"0433|Residential Rentals"
- 3 Units
-" 3 Building - Designed|0|12/31/1997|"
-"0434|Residential Rentals"
- 3 Units
- 4 or more Buildings
-" Designed|0|12/31/1997|"
-"0435|Residential Rentals"
- 3 Units
-" 1 Building Converted|0|12/31/1997|"
-"0436|Residential Rentals"
- 3 Units
-" 1 Building Converted|0|12/31/1997|"
-"0437|Residential Rentals"
- 3 Units
-" 3 Buildings Converted|0|12/31/1997|"
-"0438|Residential Rentals"
- 3 Units
-" 4 or more Buildings Converted|0|12/31/1997|"
-"0439|Residential Rentals"
- 3 Units
-" Government Restriction|0|12/31/1997|"
-"0440|No Description Available|0|03/20/1998|"
-"0441|Residential Rentals"
- 4 Units
-" 1 Building - Designed|0|12/31/1997|"
-"0442|Residential Rentals"
- 4 Units
-" 2 Building - Designed|0|12/31/1997|"
-"0443|Residential Rentals"
- 4 Units
-" 3 Building - Designed|0|12/31/1997|"
-"0444|Residential Rentals"
- 4 Units
- 4 or more Buildings
-" Designed|0|12/31/1997|"
-"0445|Residential Rentals"
- 4 Units
-" 1 Building Converted|0|12/31/1997|"
-"0446|Residential Rentals"
- 4 Units
-" 1 Building Converted|0|12/31/1997|"
-"0447|Residential Rentals"
- 4 Units
-" 3 Buildings Converted|0|12/31/1997|"
-"0448|Residential Rentals"
- 4 Units
-" 4 or more Buildings Converted|0|12/31/1997|"
-"0449|Residential Rentals"
- 4 Units
-" Government Restriction|0|12/31/1997|"
-"0452|No Description Available|0|03/20/1998|"
-"0458|No Description Available|0|03/20/1998|"
-"0471|No Description Available|0||"
-"0479|Resale restriction|0||"
-"0481|Courts"
-" 1 Building - Designed|0|12/31/1997|"
-"0482|Courts"
-" 2 Building - Designed|0|12/31/1997|"
-"0483|Courts"
-" 3 Building - Designed|0|12/31/1997|"
-"0484|Courts"
- 4 or more Buildings
-" Designed|0|12/31/1997|"
-"0485|Courts"
-" 1 Building Converted|0|12/31/1997|"
-"0486|Courts"
-" 2 Building Converted|0|12/31/1997|"
-"0487|Courts"
-" 3 Buildings Converted|0|12/31/1997|"
-"0488|Courts"
-" 4 or more Buildings Converted|0|12/31/1997|"
-"0489|Courts"
-" Government Restriction|0|12/31/1997|"
-"0490|No Description Available|0|03/20/1998|"
-"0491|More than 4 Units"
-" 1 Building - Designed|0|12/31/1997|"
-"0492|More than 4 Units"
-" 2 Building - Designed|0|12/31/1997|"
-"0493|More than 4 Units"
-" 3 Building - Designed|0|12/31/1997|"
-"0494|More than 4 Units"
- 4 or more Buildings
-" Designed|0|12/31/1997|"
-"0495|More than 4 Units"
-" 1 Building Converted|0|12/31/1997|"
-"0496|More than 4 Units"
-" 1 Building Converted|0|12/31/1997|"
-"0497|More than 4 Units"
-" 3 Buildings Converted|0|12/31/1997|"
-"0498|More than 4 Units"
-" 4 or more Buildings Converted|0|12/31/1997|"
-"0499|More than 4 Units"
-" Government Restriction|0|12/31/1997|"
-"0500|Apartments (5 or more units)|0|12/31/1997|"
-"0501|Apartments"
-" 100-149 Units|0|12/31/1997|"
-"0502|Apartments"
-" 200-299 Units|0|12/31/1997|"
-"0503|Apartments"
-" 300 Units and up|0|12/31/1997|"
-"0504|Apartments"
-" 150-199 Units|0|12/31/1997|"
-"0505|Apartments"
-" 5 Units|0|12/31/1997|"
-"0506|Apartments"
-" 6 Units|0|12/31/1997|"
-"0507|Apartments"
-" 7 Units|0|12/31/1997|"
-"0508|Apartments"
-" 8 Units|0|12/31/1997|"
-"0509|Apartments"
-" 9 Units|0|12/31/1997|"
-"0510|Apartments"
-" 10 Units|0|12/31/1997|"
-"0511|Apartments"
-" 11 Units|0|12/31/1997|"
-"0512|Apartments"
-" 12 Units|0|12/31/1997|"
-"0513|Apartments"
-" 13 Units|0|12/31/1997|"
-"0514|Apartments"
-" 14 Units|0|12/31/1997|"
-"0515|Apartments"
-" 15 Units|0|12/31/1997|"
-"0516|Apartments"
-" 16 Units|0|12/31/1997|"
-"0517|Apartments"
-" 17 Units|0|12/31/1997|"
-"0518|Apartments"
-" 18 Units|0|12/31/1997|"
-"0519|Apartments"
-" 19 Units|0|12/31/1997|"
-"0520|Apartments"
-" 20 Units|0|12/31/1997|"
-"0521|Apartments"
-" 21 Units|0|12/31/1997|"
-"0522|Apartments"
-" 22 Units|0|12/31/1997|"
-"0523|Apartments"
-" 23 Units|0|12/31/1997|"
-"0524|Apartments"
-" 24 Units|0|12/31/1997|"
-"0525|Apartments"
-" 25 Units|0|12/31/1997|"
-"0526|Apartments"
-" 26 Units|0|12/31/1997|"
-"0527|Apartments"
-" 27 Units|0|12/31/1997|"
-"0528|Apartments"
-" 28 Units|0|12/31/1997|"
-"0529|Apartments"
-" 29 Units|0|12/31/1997|"
-"0530|Apartments"
-" 30 Units|0|12/31/1997|"
-"0531|Apartments"
-" 31 Units|0|12/31/1997|"
-"0532|Apartments"
-" 32 Units|0|12/31/1997|"
-"0533|Apartments"
-" 33 Units|0|12/31/1997|"
-"0534|Apartments"
-" 34 Units|0|12/31/1997|"
-"0535|Apartments"
-" 35 Units|0|12/31/1997|"
-"0536|Apartments"
-" 36 Units|0|12/31/1997|"
-"0537|Apartments"
-" 37 Units|0|12/31/1997|"
-"0538|Apartments"
-" 38 Units|0|12/31/1997|"
-"0539|Apartments"
-" 39 Units|0|12/31/1997|"
-"0540|Apartments"
-" 40 Units|0|12/31/1997|"
-"0541|Apartments"
-" 41 Units|0|12/31/1997|"
-"0542|Apartments"
-" 42 Units|0|12/31/1997|"
-"0543|Apartments"
-" 43 Units|0|12/31/1997|"
-"0544|Apartments"
-" 44 Units|0|12/31/1997|"
-"0545|Apartments"
-" 45 Units|0|12/31/1997|"
-"0546|Apartments"
-" 46 Units|0|12/31/1997|"
-"0547|Apartments"
-" 47 Units|0|12/31/1997|"
-"0548|Apartments"
-" 48 Units|0|12/31/1997|"
-"0549|Apartments"
-" 49 Units|0|12/31/1997|"
-"0550|Apartments"
-" 50 Units|0|01/05/1998|0"
-"0551|Apartments"
-" 51 Units|0|01/05/1998|0"
-"0552|Apartments"
-" 52 Units|0|01/05/1998|0"
-"0553|Apartments"
-" 53 Units|0|01/05/1998|0"
-"0554|Apartments"
-" 54 Units|0|01/05/1998|0"
-"0555|Apartments"
-" 55 Units|0|01/05/1998|0"
-"0556|Apartments"
-" 56 Units|0|01/05/1998|0"
-"0557|Apartments"
-" 57 Units|0|01/05/1998|0"
-"0558|Apartments"
-" 58 Units|0|01/05/1998|0"
-"0559|Apartments"
-" 59 Units|0|01/05/1998|0"
-"0560|Apartments"
-" 60 Units|0|01/05/1998|0"
-"0561|Apartments"
-" 61 Units|0|01/05/1998|0"
-"0562|Apartments"
-" 62 Units|0|01/05/1998|0"
-"0563|Apartments"
-" 63 Units|0|01/05/1998|0"
-"0564|Apartments"
-" 64 Units|0|01/05/1998|0"
-"0565|Apartments"
-" 65 Units|0|01/05/1998|0"
-"0566|Apartments"
-" 66 Units|0|01/05/1998|0"
-"0567|Apartments"
-" 67 Units|0|01/05/1998|0"
-"0568|Apartments"
-" 68 Units|0|01/05/1998|0"
-"0569|Apartments"
-" 69 Units|0|01/05/1998|0"
-"0570|Apartments"
-" 70 Units|0|01/05/1998|0"
-"0571|Apartments"
-" 71 Units|0|01/05/1998|0"
-"0572|Apartments"
-" 72 Units|0|01/05/1998|0"
-"0573|Apartments"
-" 73 Units|0|01/05/1998|0"
-"0574|Apartments"
-" 74 Units|0|01/05/1998|0"
-"0575|Apartments"
-" 75 Units|0|01/05/1998|0"
-"0576|Apartments"
-" 76 Units|0|01/05/1998|0"
-"0577|Apartments"
-" 77 Units|0|01/05/1998|0"
-"0578|Apartments"
-" 78 Units|0|01/05/1998|0"
-"0579|Apartments"
-" 79 Units|0|01/05/1998|0"
-"0580|Apartments"
-" 80 Units|0|01/05/1998|0"
-"0581|Apartments"
-" 81 Units|0|01/05/1998|0"
-"0582|Apartments"
-" 82 Units|0|01/05/1998|0"
-"0583|Apartments"
-" 83 Units|0|01/05/1998|0"
-"0584|Apartments"
-" 84 Units|0|01/05/1998|0"
-"0585|Apartments"
-" 85 Units|0|01/05/1998|0"
-"0586|Apartments"
-" 86 Units|0|01/05/1998|0"
-"0587|Apartments"
-" 87 Units|0|01/05/1998|0"
-"0588|Apartments"
-" 88 Units|0|01/05/1998|0"
-"0589|Apartments"
-" 89 Units|0|01/05/1998|0"
-"0590|Apartments"
-" 90 Units|0|01/05/1998|0"
-"0591|Apartments"
-" 91 Units|0|01/05/1998|0"
-"0592|Apartments"
-" 92 Units|0|01/05/1998|0"
-"0593|Apartments"
-" 93 Units|0|01/05/1998|0"
-"0594|Apartments"
-" 94 Units|0|01/05/1998|0"
-"0595|Apartments"
-" 95 Units|0|01/05/1998|0"
-"0596|Apartments"
-" 96 Units|0|01/05/1998|0"
-"0597|Apartments"
-" 97 Units|0|01/05/1998|0"
-"0598|Apartments"
-" 98 Units|0|01/05/1998|0"
-"0599|Apartments"
-" 99 Units|0|01/05/1998|0"
-"0600|Bed & Breakfast|0|12/31/1997|"
-"0601|Bed & Breakfast"
-" 1 Units|0|01/05/1998|0"
-"0602|Bed $ Breakfast"
-" 2 Units|0|01/05/1998|0"
-"0603|Bed $ Breakfast"
-" 3 Units|0|01/05/1998|0"
-"0604|Bed $ Breakfast"
-" 4 Units|0|01/05/1998|0"
-"0605|Bed $ Breakfast"
-" 5 Units|0|01/05/1998|0"
-"0606|Bed $ Breakfast"
-" 6 Units|0|01/05/1998|0"
-"0607|Bed $ Breakfast"
-" 7 Units|0|01/05/1998|0"
-"0608|Bed $ Breakfast"
-" 8 Units|0|01/05/1998|0"
-"0609|Bed $ Breakfast"
-" 9 Units|0|01/05/1998|0"
-"0610|Bed $ Breakfast"
-" 10 Units|0|01/05/1998|0"
-"0611|Bed $ Breakfast"
-" 11 Units|0|01/05/1998|0"
-"0612|Bed $ Breakfast"
-" 12 Units|0|01/05/1998|0"
-"0613|Bed $ Breakfast"
-" 13 Units|0|01/05/1998|0"
-"0614|Bed $ Breakfast"
-" 14 Units|0|01/05/1998|0"
-"0615|Bed $ Breakfast"
-" 15 Units|0|01/05/1998|0"
-"0616|Bed $ Breakfast"
-" 16 Units|0|01/05/1998|0"
-"0617|Bed $ Breakfast"
-" 17 Units|0|01/05/1998|0"
-"0618|Bed $ Breakfast"
-" 18 Units|0|01/05/1998|0"
-"0619|Bed $ Breakfast"
-" 19 Units|0|01/05/1998|0"
-"0620|Bed $ Breakfast"
-" 20 Units|0|01/05/1998|0"
-"0621|Bed $ Breakfast"
-" 21 Units|0|01/05/1998|0"
-"0622|Bed $ Breakfast"
-" 22 Units|0|01/05/1998|0"
-"0623|Bed $ Breakfast"
-" 23 Units|0|01/05/1998|0"
-"0624|Bed $ Breakfast"
-" 24 Units|0|01/05/1998|0"
-"0625|Bed $ Breakfast"
-" 25 Units|0|01/05/1998|0"
-"0626|Bed $ Breakfast"
-" 26 Units|0|01/05/1998|0"
-"0627|Bed $ Breakfast"
-" 27 Units|0|01/05/1998|0"
-"0628|Bed $ Breakfast"
-" 28 Units|0|01/05/1998|0"
-"0629|Bed $ Breakfast"
-" 29 Units|0|01/05/1998|0"
-"0630|Bed $ Breakfast"
-" 30+ Units|0|01/05/1998|0"
-"0640|No Description Available|0|03/20/1998|"
-"0652|No Description Available|0|03/20/1998|"
-"0656|No Description Available|0|03/20/1998|"
-"0670|No Description Available|0||"
-"0676|No Description Available|0|03/20/1998|"
-"0691|No Description Available|0|07/02/1999|"
-"0695|No Description Available|0||"
-"0700|Hotels/Motels|0|12/31/1997|"
-"0701|Hotels/Motels"
-" Under 25 Rooms|0|01/05/1998|0"
-"0702|Hotels/Motels"
-" 25-49 Rooms|0|01/05/1998|0"
-"0703|No Description Available|0|03/20/1998|"
-"0705|Hotels/Motels"
-" 50-99 Rooms|0|01/05/1998|0"
-"0707|No Description Available|0|03/20/1998|"
-"0709|No Description Available|0||"
-"0710|Hotels/Motels"
-" 100-199 Rooms|0|01/05/1998|0"
-"0711|No Description Available|0||"
-"0712|No Description Available|0|03/20/1998|"
-"0714|No Description Available|0|03/20/1998|"
-"0717|No Description Available|0|03/20/1998|"
-"0720|Hotels/Motels"
-" 200-299 Rooms|0|01/05/1998|0"
-"0725|No Description Available|0|03/20/1998|"
-"0726||0||"
-"0727|No Description Available|0||"
-"0730|Hotels/Motels"
-" 300 & Up Rooms|0|01/05/1998|0"
-"0731|No Description Available|0||"
-"0733|No Description Available|0|04/14/1999|"
-"0734|No Description Available|0|03/20/1998|"
-"0740|No Description Available|0|03/20/1998|"
-"0741|No Description Available|0||"
-"0744|No Description Available|0|03/20/1998|"
-"0749|No Description Available|0|03/20/1998|"
-"0768|No Description Available|0||"
-"0771|No Description Available|0||"
-"0773|No Description Available|0||"
-"0775|No Description Available|0||"
-"0776|No Description Available|0|03/20/1998|"
-"0790|No Description Available|0|03/20/1998|"
-"0794|No Description Available|0|03/20/1998|"
-"0800|Mixed use-commercial/residential|0|03/20/1998|"
-"0802|No Description Available|0|03/20/1998|"
-"0811|No Description Available|0|03/20/1998|"
-"0812|No Description Available|0||"
-"0821|No Description Available|0||"
-"0822|No Description Available|0|07/11/1999|"
-"0824|No Description Available|0||"
-"0850|No Description Available|0||"
-"0852|No Description Available|0|03/20/1998|"
-"0853|No Description Available|0||"
-"0890|No Description Available|0|07/02/1999|"
-"0900|Mobile Home Parks|0|12/31/1997|"
-"0919|No Description Available|0|03/20/1998|"
-"0931|No Description Available|0|07/02/1999|"
-"0970|No Description Available|0|03/20/1998|"
-"0981|No Description Available|0|03/20/1998|"
-"0990|No Description Available|0|03/20/1998|"
-"0991|No Description Available|0|03/20/1998|"
-"1000|Commercial|0|12/31/1997|"
-"1001|No Description Available|0||"
-"1012|No Description Available|0||"
-"1035|No Description Available|0||"
-"1050|No Description Available|0|03/20/1998|"
-"1090|No Description Available|0|03/20/1998|"
-"1093|No Description Available|0||"
-"1098|No Description Available|0||"
-"1100|Retail Stores"
-" Single Story|0|12/31/1997|"
-"1102|No Description Available|0|01/15/2000|"
-"1110|No Description Available|0||"
-"1111|No Description Available|0||"
-"1112|No Description Available|0||"
-"1114|No Description Available|0||"
-"1118|No Description Available|0||"
-"1150|No Description Available|0|03/20/1998|"
-"1165|No Description Available|0||"
-"1172|No Description Available|0||"
-"1175|No Description Available|0||"
-"1177|No Description Available|0||"
-"1190|No Description Available|0|03/20/1998|"
-"1193|No Description Available|0||"
-"1200|Store & Office Combination|0|12/31/1997|"
-"1209|No Description Available|0|12/17/1999|"
-"1210|No Description Available|0|03/20/1998|"
-"1212|No Description Available|0||"
-"1213|No Description Available|0||"
-"1223|No Description Available|0|03/20/1998|"
-"1231||0||"
-"1251|No Description Available|0||"
-"1280|No Description Available|0|03/20/1998|"
-"1281|No Description Available|0|04/14/1999|"
-"1285|No Description Available|0|04/14/1999|"
-"1300|Department Stores|0|12/31/1997|"
-"1312|No Description Available|0||"
-"1323|No Description Available|0|03/20/1998|"
-"1325||0||"
-"1330|No Description Available|0||"
-"1351|No Description Available|0|01/06/1999|"
-"1371|No Description Available|0|03/20/1998|"
-"1374|No Description Available|0|10/23/1999|"
-"1400|Super Markets|0|12/31/1997|"
-"1412|No Description Available|0||"
-"1413|No Description Available|0||"
-"1431|No Description Available|0||"
-"1433|No Description Available|0||"
-"1500|Shopping Centers (Neighborhood)|0|12/31/1997|"
-"1531|No Description Available|0|03/20/1998|"
-"1600|Shopping Centers (Regional)|0|12/31/1997|"
-"1630|No Description Available|0|03/20/1998|"
-"1674|No Description Available|0|03/20/1998|"
-"1700|Office Buildings (1 Story)|0|12/31/1997|"
-"1707|No Description Available|0|03/20/1998|"
-"1710|No Description Available|0||"
-"1740|No Description Available|0|03/20/1998|"
-"1790|No Description Available|0|03/20/1998|"
-"1800|Office Buildings (multi-story)|0|12/31/1997|"
-"1802|No Description Available|0|03/20/1998|"
-"1806|No Description Available|0|03/20/1998|"
-"1850|No Description Available|0|10/23/1999|"
-"1890|No Description Available|0||"
-"1900|Professional Buildings|0|12/31/1997|"
-"1909|No Description Available|0|03/20/1998|"
-"1910|No Description Available|0|03/20/1998|"
-"1933|No Description Available|0|03/20/1998|"
-"1990|No Description Available|0|03/20/1998|"
-"2000|No Description Available|0|03/20/1998|"
-"2001|No Description Available|0||"
-"2007|No Description Available|0||"
-"2024|No Description Available|0|03/20/1998|"
-"2090|No Description Available|0|03/20/1998|"
-"2100|Restaurants"
-" Coctail Lounge|0|12/31/1997|"
-"2101|No Description Available|0|03/20/1998|"
-"2102|No Description Available|0|03/20/1998|"
-"2103|No Description Available|0|07/03/1999|"
-"2109|No Description Available|0|03/20/1998|"
-"2124|No Description Available|0||"
-"2134|No Description Available|0|03/20/1998|"
-"2190|No Description Available|0|03/20/1998|"
-"2200|Recreation|0|12/31/1997|"
-"2210|No Description Available|0|03/20/1998|"
-"2300|Commercial & Office Condos"
-" PHDs|0|12/31/1997|"
-"2310|Store Area"
-" Under 500 Sq'/Unit Area|0|01/05/1998|0"
-"2311|Store Area"
-" 501 to 1000 Sq'/Unit Area|0|01/05/1998|0"
-"2312|Store Area"
-" 1001 to 1600 Sq'/Unit Area|0|01/05/1998|0"
-"2313|Store Area"
-" 1601 to 2400 Sq'/Unit Area|0|01/05/1998|0"
-"2314|Store Area"
-" 2401 to 3600 Sq'/Unit Area|0|01/05/1998|0"
-"2315|Store Area"
-" Over 3600 Sq'/Unit Area|0|01/05/1998|0"
-"2320|Store Area"
-" Under 500 Sq'/Unit Area|0|01/05/1998|0"
-"2321|Store Area"
-" 501 to 1000 Sq'/Unit Area|0|01/05/1998|0"
-"2322|Store Area"
-" 1001 to 1600 Sq'/Unit Area|0|01/05/1998|0"
-"2323|Store Area"
-" 1601 to 2400 Sq'/Unit Area|0|01/05/1998|0"
-"2324|Store Area"
-" 2401 to 3600 Sq'/Unit Area|0|01/05/1998|0"
-"2325|Store Area"
-" Over 3600 Sq'/Unit Area|0|01/05/1998|0"
-"2340|General Offices"
-" Under 500 Sq'/Unit Area|0|01/05/1998|0"
-"2341|General Offices"
-" 501 to 1000 Sq'/Unit Area|0|01/05/1998|0"
-"2342|General Offices"
-"1001 to 1600 Sq'/Unit Area|0|01/05/1998|0"
-"2343|General Offices"
-" 1601 to 2400 Sq'/Unit Area|0|01/05/1998|0"
-"2344|General Offices"
-" 2401 to 3600 Sq'/Unit Area|0|01/05/1998|0"
-"2345|General Offices"
-" Over 3600 Sq'/Unit Area|0|01/05/1998|0"
-"2350|General Offices"
-" Under 500 Sq'/Unit Area|0|01/05/1998|0"
-"2351|General Offices"
-" 501 to 1000 Sq'/Unit Area|0|01/05/1998|0"
-"2352|General Offices"
-" 1001 to 1600 Sq'/Unit Area|0|01/05/1998|0"
-"2353|General Offices"
-" 1601 to 2400 Sq'/Unit Area|0|01/05/1998|0"
-"2354|General Offices"
-" 2401 to 3600 Sq'/Unit Area|0|01/05/1998|0"
-"2355|General Offices"
-" Over 3600 Sq'/Unit Area|0|01/05/1998|0"
-"2370|Medical/Dental Offices"
-" Under 500 Sq'/Unit Area|0|01/05/1998|0"
-"2371|Medical/Dental Offices"
-" 501 to 1000 Sq'/Unit Area|0|01/05/1998|0"
-"2372|Medical/Dental Offices"
-" 1001 to 1600 Sq'/Unit Area|0|01/05/1998|0"
-"2373|Medical/Dental Offices"
-" 1601 to 2400 Sq'/Unit Area|0|01/05/1998|0"
-"2374|Medical/Dental Offices"
-" 2401 to 3600 Sq'/Unit Area|0|01/05/1998|0"
-"2375|Medical/Dental Offices"
-" Over 3600 Sq'/Unit Area|0|01/05/1998|0"
-"2380|Medical/Dental Offices"
-" Under 500 Sq'/Unit Area|0|01/05/1998|0"
-"2381|Medical/Dental Offices"
-" 501 to 1000 Sq'/Unit Area|0|01/05/1998|0"
-"2382|Medical/Dental Offices"
-" 1001 to 1600 Sq'/Unit Area|0|01/05/1998|0"
-"2383|Medical/Dental Offices"
-" 1601 to 2400 Sq'/Unit Area|0|01/05/1998|0"
-"2384|Medical/Dental Offices"
-" 2401 to 3600 Sq'/Unit Area|0|01/05/1998|0"
-"2385|Medical/Dental Offices"
-" Over 3600 Sq'/Unit Area|0|01/05/1998|0"
-"2400|Banks"
-" S&L Assoc.|0|12/31/1997|"
-"2413||0||"
-"2472|No Description Available|0|03/20/1998|"
-"2500|Service Stations|0|12/31/1997|"
-"2600|Auto Sales"
- Repair
- Storage
- Rentals
- Car Wash
-"etc|0|12/31/1997|"
-"2604|No Description Available|0|03/20/1998|"
-"2620|No Description Available|0||"
-"2622|No Description Available|0|03/20/1998|"
-"2680|No Description Available|0||"
-"2690|No Description Available|0|03/20/1998|"
-"2700|Parking Lot|0|12/31/1997|"
-"2720|No Description Available|0|03/20/1998|"
-"2790|No Description Available|0|03/20/1998|"
-"2800|Wholesale Laundry|0|12/31/1997|"
-"2810|No Description Available|0||"
-"2893|No Description Available|0|03/20/1998|"
-"2900|Nurseries"
-" Greenhouses|0|12/31/1997|"
-"2902|No Description Available|0|03/20/1998|"
-"2990|No Description Available|0|03/20/1998|"
-"3000|Industrial|0|12/31/1997|"
-"3032|No Description Available|0|03/20/1998|"
-"3040|No Description Available|0||"
-"3090|No Description Available|0|03/20/1998|"
-"3100|Light Manufacturing|0|12/31/1997|"
-"3115|No Description Available|0|03/20/1998|"
-"3119|No Description Available|0|03/20/1998|"
-"3127|No Description Available|0|03/20/1998|"
-"3130|No Description Available|0|03/20/1998|"
-"3137|No Description Available|0||"
-"3140|No Description Available|0||"
-"3150|No Description Available|0|01/06/1999|"
-"3190|No Description Available|0|03/20/1998|"
-"3200|Warehousing|0|12/31/1997|"
-"3210|No Description Available|0|03/20/1998|"
-"3214|No Description Available|0|03/20/1998|"
-"3230|No Description Available|0||"
-"3272|No Description Available|0|10/23/1999|"
-"3290|No Description Available|0|03/20/1998|"
-"3300|Industrial Condos"
- free standing
- C
-" under 1000 sq|0|12/31/1997|"
-"3301|Free standing"
- C construction
-" 1001-2000 Sq'/Unit|0|01/05/1998|0"
-"3302|Free standing"
- C construction
-" 2001-3500 Sq'/Unit|0|01/05/1998|0"
-"3303|Free standing"
- C construction
-" 3501-5000 Sq'/Unit|0|01/05/1998|0"
-"3304|Free standing"
- C construction
-" Over 5000 Sq'/Unit|0|01/05/1998|0"
-"3310|Row Units"
- C construction
-" under 1000 Sq'/Unit|0|01/05/1998|0"
-"3311|Row Units"
- C construction
-" 1001-2000 Sq'/Unit|0|01/05/1998|0"
-"3312|Row Units"
- C construction
-" 2001-3500 Sq'/Unit|0|01/05/1998|0"
-"3313|Row Units"
- C construction
-" 3501-5000 Sq'/Unit|0|01/05/1998|0"
-"3314|Row Units"
- C construction
-" Over 5000 Sq'/Unit|0|01/05/1998|0"
-"3320|Modular division"
-" C construction under 1000 sq'/un|0|01/05/1998|0"
-"3321|Modular division"
- C construction
-" 1001-2000 sq'/un|0|01/05/1998|0"
-"3322|Modular division"
- C construction
-" 2001-3500 sq'/un|0|01/05/1998|0"
-"3323|Modular division"
- C construction
-" 3501-5000 sq'/un|0|01/05/1998|0"
-"3324|Modular division"
- C construction over
-" 5000 sq'/un|0|01/05/1998|0"
-"3325|No Description Available|0|04/14/1999|"
-"3330|Free standing"
- D construction
-" under 1000 Sq'/Unit|0|01/05/1998|0"
-"3331|Free standing"
- D construction
-" 1001-2000 Sq'/Unit|0|01/05/1998|0"
-"3332|Free standing"
- D construction
-" 2001-3500 Sq'/Unit|0|01/05/1998|0"
-"3333|Free standing"
- D construction
-" 3501-5000 Sq'/Unit|0|01/05/1998|0"
-"3334|Free standing"
- D construction
-" Over 5000 Sq'/Unit|0|01/05/1998|0"
-"3340|Row Units"
- D construction
-" under 1000 Sq'/Unit|0|01/05/1998|0"
-"3341|Row Units"
- D construction
-" 1001-2000 Sq'/Unit|0|01/05/1998|0"
-"3342|Row Units"
- D construction
-" 2001-3500 Sq'/Unit|0|01/05/1998|0"
-"3343|Row Units"
- D construction
-" 3501-5000 Sq'/Unit|0|01/05/1998|0"
-"3344|Row Units"
- D construction
-" Over 5000 Sq'/Unit|0|01/05/1998|0"
-"3350|Modular division"
-" D construction under 1000 sq'/un|0|01/05/1998|0"
-"3351|Modular division"
- D construction
-" 1001-2000 sq'/un|0|01/05/1998|0"
-"3352|Modular division"
- D construction
-" 2001-3500 sq'/un|0|01/05/1998|0"
-"3353|Modular division"
- D construction
-" 3501-5000 sq'/un|0|01/05/1998|0"
-"3354|Modular division"
- D construction
-" over 5000 sq'/un|0|01/05/1998|0"
-"3360|Free standing"
- Steel
-" under 1000 Sq'/Unit|0|01/05/1998|0"
-"3361|Free standing"
- Steel
-" 1001-2000 Sq'/Unit|0|01/05/1998|0"
-"3362|Free standing"
- Steel
-" 2001-3500 Sq'/Unit|0|01/05/1998|0"
-"3363|Free standing"
- Steel
-" 3501-5000 Sq'/Unit|0|01/05/1998|0"
-"3364|Free standing"
- Steel
-" Over 5000 Sq'/Unit|0|01/05/1998|0"
-"3370|Row units"
- Steel
-" Under 1000 Sq'/Unit|0|01/05/1998|0"
-"3371|Row units"
- Steel
-" 1001-2000 Sq'/Unit|0|01/05/1998|0"
-"3372|Row units"
- Steel
-" 2001-3500 Sq'/Unit|0|01/05/1998|0"
-"3373|Row units"
- Steel
-" 3501-5000 Sq'/Unit|0|01/05/1998|0"
-"3374|Row units"
- Steel
-" Over 5000 Sq'/Unit|0|01/05/1998|0"
-"3380|Modular division"
- Steel
-" Under 1000 Sq'/Unit|0|01/05/1998|0"
-"3381|Modular division"
- Steel
-" 1001-2000 Sq'/Unit|0|01/05/1998|0"
-"3382|Modular division"
- Steel
-" 2001-3500 Sq'/Unit|0|01/05/1998|0"
-"3383|Modular division"
- Steel
-" 3501-5000 Sq'/Unit|0|01/05/1998|0"
-"3384|Modular division"
- Steel
-" Over 5000 Sq'/Unit|0|01/05/1998|0"
-"3390|No Description Available|0||"
-"3399|No Description Available|0|10/23/1999|"
-"3400|Packing Plants|0|12/31/1997|"
-"3407|No Description Available|0|03/20/1998|"
-"3409|No Description Available|0|03/20/1998|"
-"3410|No Description Available|0|03/20/1998|"
-"3411|No Description Available|0||"
-"3436|No Description Available|0|03/20/1998|"
-"3500|Lumber Yards"
-" Mills|0|12/31/1997|"
-"3600|Other Food - Food Processing"
-" Bakeries|0|12/31/1997|"
-"3700|Heavy Industry|0|12/31/1997|"
-"3800|Mineral Processing|0|12/31/1997|"
-"3900|Open Storage Bulk Plant|0|12/31/1997|"
-"3930||0||"
-"3947|No Description Available|0|03/20/1998|"
-"3990|No Description Available|0|03/20/1998|"
-"4000|Irrigated Farm|0|12/31/1997|"
-"4090|No Description Available|0|03/20/1998|"
-"4100|Orchards|0|12/31/1997|"
-"4111|Proper use"
-" Avocados|0|01/09/1998|"
-"4112|Proper use"
-" Lemons|0|01/09/1998|"
-"4113|Proper use"
-" Avo/Lemons|0|01/09/1998|"
-"4114|Proper use"
-" Walnuts|0|01/09/1998|"
-"4115|Proper use"
-" Almonds|0|01/09/1998|"
-"4116|Proper use"
-" Limes|0|01/09/1998|"
-"4117|Proper use"
-" Oranges|0|01/09/1998|"
-"4118|Proper use"
-" Other|0|01/09/1998|"
-"4121|Ag use"
- transitional
-" Avocados|0|01/09/1998|"
-"4122|Ag use"
- transitional
-" Lemons|0|01/09/1998|"
-"4123|Ag use"
- transitional
-" Avo/Lemons|0|01/09/1998|"
-"4124|Ag use"
- transitional
-" Walnuts|0|01/09/1998|"
-"4125|Ag use"
- transitional
-" Almonds|0|01/09/1998|"
-"4126|Ag use"
- transitional
-" Limes|0|01/09/1998|"
-"4127|Ag use"
- transitional
-" Oranges|0|01/09/1998|"
-"4128|Ag use"
- transitional
-" Other|0|01/09/1998|"
-"4129|No Description Available|0|03/20/1998|"
-"4131|Ag preserve"
- cont. restrict.
-" Avocados|0|01/09/1998|"
-"4132|Ag preserve"
- cont. restrict
-" Lemons|0|01/09/1998|"
-"4133|Ag preserve"
- cont. restrict.
-" Avo/Lemons|0|01/09/1998|"
-"4134|Ag preserve"
- cont. restrict.
-" Walnuts|0|01/09/1998|"
-"4135|Ag preserve"
- cont. restrict.
-" Almonds|0|01/09/1998|"
-"4136|Ag preserve"
- cont. restrict.
-" Limes|0|01/09/1998|"
-"4137|Ag preserve"
- cont. restrict.
-" Oranges|0|01/09/1998|"
-"4138|Ag preserve"
- contractual restrictions
-" other|0|01/09/1998|"
-"4141|Ag preserve"
- Notice of non-renewal
-" Avocados|0|01/09/1998|"
-"4142|Ag preserve"
- Notice of non-renewal
-" Lemons|0|01/09/1998|"
-"4143|Ag preserve"
- Notice of non-renewal
-" Avo/Lemons|0|01/09/1998|"
-"4144|Ag preserve"
- Notice of non-renewal
-" Walnuts|0|01/09/1998|"
-"4145|Ag preserve"
- Notice of non-renewal
-" Almonds|0|01/09/1998|"
-"4146|Ag preserve"
- Notice of non-renewal
-" Limes|0|01/09/1998|"
-"4147|Ag preserve"
- Notice of non-renewal
-" Oranges|0|01/09/1998|"
-"4148|Ag preserve"
- Notice of non-renewal
-" Other|0|01/09/1998|"
-"4151|Government owned"
-" Avocados|0|01/09/1998|"
-"4152|Government owned"
-" Lemons|0|01/09/1998|"
-"4153|Government owned"
-" Avo/Lemons|0|01/09/1998|"
-"4154|Government owned"
-" Walnuts|0|01/09/1998|"
-"4155|Government owned"
-" Almonds|0|01/09/1998|"
-"4156|Government owned"
-" Limes|0|01/09/1998|"
-"4157|Government owned"
-" Oranges|0|01/09/1998|"
-"4158|Government owned"
-" Other|0|01/09/1998|"
-"4183||0||"
-"4190|No Description Available|0|03/20/1998|"
-"4191|No Description Available|0|03/20/1998|"
-"4192|No Description Available|0|03/20/1998|"
-"4193|No Description Available|0|03/20/1998|"
-"4194|No Description Available|0|03/20/1998|"
-"4199|No Description Available|0|03/20/1998|"
-"4200|Vineyards|0|12/31/1997|"
-"4211|proper use"
-" table grapes- red|0|01/09/1998|"
-"4212|proper use"
-" table grapes- white|0|01/09/1998|"
-"4213|proper use"
-" wine grapes- red|0|01/09/1998|"
-"4214|proper use"
-" wine grapes- white|0|01/09/1998|"
-"4215|proper use"
-" varietal|0|01/09/1998|"
-"4216|proper use"
-" other|0|01/09/1998|"
-"4220|No Description Available|0||"
-"4221|Ag use"
- transitional
-" table grapes- red|0|01/09/1998|"
-"4222|Ag use"
- transitional
-" table grapes- white|0|01/09/1998|"
-"4223|Ag use"
- transitional
-" wine grapes- red|0|01/09/1998|"
-"4224|Ag use"
- transitional
-" wine grapes- white|0|01/09/1998|"
-"4225|Ag use"
- transitional
-" varietal|0|01/09/1998|"
-"4226|Ag use"
- transitional
-" other|0|01/09/1998|"
-"4231|Ag preserve"
- cont. restrict.
-" table grapes- red|0|01/09/1998|"
-"4232|Ag preserve"
- cont. restrict.
-" table grapes- white|0|01/09/1998|"
-"4233|Ag preserve"
- cont. restrict.
-" wine grapes- red|0|01/09/1998|"
-"4234|Ag preserve"
- cont. restrict.
-" wine grapes- white|0|01/09/1998|"
-"4235|Ag preserve"
- cont. restrict.
-" varietal|0|01/09/1998|"
-"4236|Ag preserve"
- cont. restrict.
-" other|0|01/09/1998|"
-"4241|Ag preserve"
- Notice non-renewal
-" table grapes- red|0|01/09/1998|"
-"4242|Ag preserve"
- Notice non-renewal
-" tablegrapes-white|0|01/09/1998|"
-"4243|Ag preserve"
- Notice non-renewal
-" wine grapes- red|0|01/09/1998|"
-"4244|Ag preserve"
- Notice non-renewal
-" wine grapes-white|0|01/09/1998|"
-"4245|Ag preserve"
- Notice non-renewal
-" varietal|0|01/09/1998|"
-"4246|Ag preserve"
- Notice non-renewal
-" other|0|01/09/1998|"
-"4251|Govt. owned"
-" table grapes- red|0|01/09/1998|"
-"4252|Govt. owned"
-" table grapes- white|0|01/09/1998|"
-"4253|Govt. owned"
-" wine grapes- red|0|01/09/1998|"
-"4254|Govt. owned"
-" wine grapes-white|0|01/09/1998|"
-"4255|Govt. owned"
-" varietal|0|01/09/1998|"
-"4256|Govt. owned"
-" other|0|01/09/1998|"
-"4300|Vines & Bush Plants|0|12/31/1997|"
-"4311|Proper use"
-" Share Crop- 1/3|0|01/09/1998|"
-"4312|Proper use"
-" Share Crop- 1/4|0|01/09/1998|"
-"4313|Proper use"
-" Share Crop- 1/5|0|01/09/1998|"
-"4314|Proper use"
-" Cash rent over $400/ac.|0|01/09/1998|"
-"4315|Proper use"
-" Cash rent $300-400|0|01/09/1998|"
-"4316|Proper use"
-" Cash rent $150-300|0|01/09/1998|"
-"4317|Proper use"
-" Cash rent under $150|0|01/09/1998|"
-"4319|Income does not apply|0|01/09/1998|"
-"4321|Ag use"
- transitional
-" share crop- 1/3|0|01/09/1998|"
-"4322|Ag use"
- transitional
-" share crop- 1/4|0|01/09/1998|"
-"4323|Ag use"
- transitional
-" share crop- 1/5|0|01/09/1998|"
-"4324|Ag use"
- transitional
-" cash rent over $400/ac|0|01/09/1998|"
-"4325|Ag use"
- transitional
-" cash rent $300-400/ac.|0|01/09/1998|"
-"4326|Ag use"
- transitional
-" cash rent $ 150-300|0|01/09/1998|"
-"4327|Ag use"
- transitional
-" cash rent under $150/ac|0|01/09/1998|"
-"4329|Income does not apply|0|01/09/1998|"
-"4331|Ag preserve"
- cont. restrict.
-" share crop- 1/3|0|01/09/1998|"
-"4332|Ag preserve"
- cont. restrict.
-" share crop- 1/4|0|01/09/1998|"
-"4333|Ag preserve"
- cont. restrict.
-" share crop- 1/5|0|01/09/1998|"
-"4334|Ag preserve"
- cont. restrict.
-" cash rent over$400ac|0|01/09/1998|"
-"4335|Ag preserve"
- cont. restrict.
-" cash rent $300-400ac|0|01/09/1998|"
-"4336|Ag preserve"
- cont. restrict.
-" cash rent $150-300ac|0|01/09/1998|"
-"4337|Ag preserve"
- cont. restrict.
-" cash rent under $150|0|01/09/1998|"
-"4339|Income does not apply|0|01/09/1998|"
-"4341|Ag preserve"
- Notice non-renewal
-" share crop- 1/3|0|01/09/1998|"
-"4342|Ag preserve"
- Notice non-renewal
-" share crop- 1/4|0|01/09/1998|"
-"4343|Ag preserve"
- Notice non-renewal
-" share crop- 1/5|0|01/09/1998|"
-"4344|Ag preserve"
- Notice non-renewal
-" cash rent over $400ac|0|01/09/1998|"
-"4345|Ag preserve"
- Notice non-renewal
-" cash rent $300-400 ac|0|01/09/1998|"
-"4346|Ag preserve"
-" Notice non-renewal, cash rent $150-300 ac|0|01/09/1998|
+UseCode|CodeDesc|CdeRetireFlg|RecDateTime|RecUserId
+0000|Vacant Land|0|12/31/1997|
+0001|No Description Available|0||
+0003|No Description Available|0|01/06/1999|
+0008|No Description Available|0||
+0009|No Description Available|0|03/20/1998|
+0030|No Description Available|0||
+0034|No Description Available|0||
+0036|No Description Available|0|03/20/1998|
+0040|No Description Available|0||
+0041|No Description Available|0|04/14/1999|
+0050|Primary Vacant Land with Improvements|0||
+0051|No Description Available|0|03/20/1998|
+0055|No Description Available|0||
+0060|No Description Available|0||
+0075|No Description Available|0||
+0085|No Description Available|0||
+0090|Water Moratorium|0|12/31/1997|
+0093|No Description Available|0|03/20/1998|
+0099|Downzoning, etc.|0|12/31/1997|
+01|No Description Available|0||
+0100|Single Family Residence|0|12/31/1997|
+0101|No Description Available|0||
+0110|No Description Available|0|03/20/1998|
+0111|No Description Available|0|03/20/1998|
+0120|No Description Available|0|03/20/1998|
+0130|Planned Unit Development|0|03/20/1998|
+0131|No Description Available|0||
+0132|No Description Available|0||
+0133|No Description Available|0|03/20/1998|
+0134|No Description Available|0||
+0135|No Description Available|0||
+0150|Residential Estate 3000 sq.ft. (Main residence, ca|0|12/31/1997|
+0151|No Description Available|0|03/20/1998|
+0153|No Description Available|0||
+0154|No Description Available|0||
+0155|No Description Available|0|03/20/1998|
+0158|No Description Available|0|03/20/1998|
+0159|No Description Available|0||
+0160|Residential Estate (6000 sq.ft. or more of living|0|12/31/1997|
+0163|No Description Available|0||
+0169|No Description Available|0|03/20/1998|
+0170|No Description Available|0|03/20/1998|
+0180|No Description Available|0|03/20/1998|
+0190|No Description Available|0|03/20/1998|
+0199|Single Family Resale Restricted|0||
+0200|Mobile Home|0|12/31/1997|
+0210|No Description Available|0|03/20/1998|
+0211|No Description Available|0||
+0222|No Description Available|0||
+0223|No Description Available|0||
+0227|No Description Available|0||
+0231|No Description Available|0|03/20/1998|
+0240|Sited outside M/H Park (P.I.)|0|12/31/1997|
+0241|Single Wide New Const. (after 7/1/80)|0|12/31/1997|
+0242|Double Wide New Const. (after 7/1/80)|0|12/31/1997|
+0243|Larger than D/W New Const. (after 7/1/80)|0|12/31/1997|
+0244|Single Wide built 1960-1980|0|12/31/1997|
+0245|Double Wide build 1960-1980|0|12/31/1997|
+0246|Larger than D/W built 1960-1980|0|12/31/1997|
+0247|Single Wide built prior to 1960|0|12/31/1997|
+0248|Double Wide built prior to 1960|0|12/31/1997|
+0249|Larger than D/W built prior to 1960|0|12/31/1997|
+0250|Sited inside M/H Park (P.I.)|0|12/31/1997|
+0251|Single Wide New Const. (after 7/1/80)|0|12/31/1997|
+0252|Double Wide New Const. (after 7/1/80)|0|12/31/1997|
+0253|Larger than D/W New Const. (after 7/1/80)|0|12/31/1997|
+0254|Single Wide built 1960-1980|0|12/31/1997|
+0255|Double Wide build 1960-1980|0|12/31/1997|
+0256|Larger than D/W built 1960-1980|0|12/31/1997|
+0257|Single Wide built prior to 1960|0|12/31/1997|
+0258|Double Wide built prior to 1960|0|12/31/1997|
+0259|Larger than D/W built prior to 1960|0|12/31/1997|
+0260|Sited outside M/H Park (Rented)|0|12/31/1997|
+0261|Single Wide New Const. (after 7/1/80)|0|12/31/1997|
+0262|Double Wide New Const. (after 7/1/80)|0|12/31/1997|
+0263|Larger than D/W New Const. (after 7/1/80)|0|12/31/1997|
+0264|Single Wide built 1960-1980|0|12/31/1997|
+0265|Double Wide build 1960-1980|0|12/31/1997|
+0266|Larger than D/W built 1960-1980|0|12/31/1997|
+0267|Single Wide built prior to 1960|0|12/31/1997|
+0268|Double Wide built prior to 1960|0|12/31/1997|
+0269|Larger than D/W built prior to 1960|0|12/31/1997|
+0270|Sited inside M/H Park (Rented)|0|12/31/1997|
+0271|Single Wide New Const. (after 7/1/80)|0|12/31/1997|
+0272|Double Wide New Const. (after 7/1/80)|0|12/31/1997|
+0273|Larger than D/W New Const. (after 7/1/80)|0|12/31/1997|
+0274|Single Wide built 1960-1980|0|12/31/1997|
+0275|Double Wide build 1960-1980|0|12/31/1997|
+0276|Larger than D/W built 1960-1980|0|12/31/1997|
+0277|Single Wide built prior to 1960|0|12/31/1997|
+0278|Double Wide built prior to 1960|0|12/31/1997|
+0279|Larger than D/W built prior to 1960|0|12/31/1997|
+0280|Sited outside M/H Park (Owned)|0|12/31/1997|
+0281|Single Wide New Const. (after 7/1/80)|0|12/31/1997|
+0282|Double Wide New Const. (after 7/1/80)|0|12/31/1997|
+0283|Larger than D/W New Const. (after 7/1/80)|0|12/31/1997|
+0284|Single Wide built 1960-1980|0|12/31/1997|
+0285|Double Wide build 1960-1980|0|12/31/1997|
+0286|Larger than D/W built 1960-1980|0|12/31/1997|
+0287|Single Wide built prior to 1960|0|12/31/1997|
+0288|Double Wide built prior to 1960|0|12/31/1997|
+0289|Larger than D/W built prior to 1960|0|12/31/1997|
+0290|Sited inside M/H Park (Owned)|0|12/31/1997|
+0291|Single Wide New Const. (after 7/1/80)|0|12/31/1997|
+0292|Double Wide New Const. (after 7/1/80)|0|12/31/1997|
+0293|Larger than D/W New Const. (after 7/1/80)|0|12/31/1997|
+0294|Single Wide built 1960-1980|0|12/31/1997|
+0295|Double Wide build 1960-1980|0|12/31/1997|
+0296|Larger than D/W built 1960-1980|0|12/31/1997|
+0297|Single Wide built prior to 1960|0|12/31/1997|
+0298|Double Wide built prior to 1960|0|12/31/1997|
+0299|Larger than D/W built prior to 1960|0|12/31/1997|
+0300|Condo|0|12/31/1997|
+0301|No Description Available|0||
+0302|No Description Available|0|03/20/1998|
+0303|No Description Available|0|03/20/1998|
+0304|No Description Available|0|03/20/1998|
+0306|No Description Available|0|03/20/1998|
+0310|Rec. Area - 5-6 class|0|12/31/1997|
+0311|Rec. Area - 5-6 class, 500-800 sq. ft.|0|12/31/1997|
+0312|Rec. Area - 5-6 class, 800-1000 sq.ft.|0|12/31/1997|
+0313|Rec. Area - 5-6 class, 1000-1300 sq.ft.|0|12/31/1997|
+0314|Rec. Area - 5-6 class, 1300-1500 sq.ft.|0|12/31/1997|
+0315|Rec. Area - 5-6 class, 1500-1800 sq.ft.|0|12/31/1997|
+0316|Rec. Area - 5-6 class, 1800-2000 sq.ft.|0|12/31/1997|
+0317|Rec. Area - 5-6 class, 2000-2400 sq.ft.|0|12/31/1997|
+0318|Rec. Area - 5-6 class, 2400 -up sq.ft.|0|12/31/1997|
+0319|No Description Available|0|03/20/1998|
+0320|Rec. Area - 7-up class|0|12/31/1997|
+0321|Rec. Area - 7-up class, 500-800 sq. ft.|0|12/31/1997|
+0322|Rec. Area - 7-up class, 800-1000 sq.ft.|0|12/31/1997|
+0323|Rec. Area - 7-up class, 1000-1300 sq.ft.|0|12/31/1997|
+0324|Rec. Area - 7-up class, 1300-1500 sq.ft.|0|12/31/1997|
+0325|Rec. Area - 7-up class, 1500-1800 sq.ft.|0|12/31/1997|
+0326|Rec. Area - 7-up class, 1800-2000 sq.ft.|0|12/31/1997|
+0327|Rec. Area - 7-up class, 2000-2400 sq.ft.|0|12/31/1997|
+0328|Rec. Area - 7-up class, 2400 -up sq.ft.|0|12/31/1997|
+0330|No Rec. Area - 5-6 class|0|12/31/1997|
+0331|No Rec. Area - 5-6 class, 500-800 sq. ft.|0|12/31/1997|
+0332|No Rec. Area - 5-6 class, 800-1000 sq.ft.|0|12/31/1997|
+0333|No Rec. Area - 5-6 class, 1000-1300 sq.ft.|0|12/31/1997|
+0334|No Rec. Area - 5-6 class, 1300-1500 sq.ft.|0|12/31/1997|
+0335|No Rec. Area - 5-6 class, 1500-1800 sq.ft.|0|12/31/1997|
+0336|No Rec. Area - 5-6 class, 1800-2000 sq.ft.|0|12/31/1997|
+0337|No Rec. Area - 5-6 class, 2000-2400 sq.ft.|0|12/31/1997|
+0338|No Rec. Area - 5-6 class, 2400 -up sq.ft.|0|12/31/1997|
+0340|No Rec. Area 7-up class|0|12/31/1997|
+0341|No Rec. Area 7-up class, 500-800 sq. ft.|0|12/31/1997|
+0342|No Rec. Area 7-up class, 800-1000 sq.ft.|0|12/31/1997|
+0343|No Rec. Area 7-up class, 1000-1300 sq.ft.|0|12/31/1997|
+0344|No Rec. Area 7-up class, 1300-1500 sq.ft.|0|12/31/1997|
+0345|No Rec. Area 7-up class, 1500-1800 sq.ft.|0|12/31/1997|
+0346|No Rec. Area 7-up class, 1800-2000 sq.ft.|0|12/31/1997|
+0347|No Rec. Area 7-up class, 2000-2400 sq.ft.|0|12/31/1997|
+0348|No Rec. Area 7-up class, 2400 -up sq.ft.|0|12/31/1997|
+0350|Converted apt - 5-6 class|0|12/31/1997|
+0351|Converted apt - 5-6 class, 500-800 sq. ft.|0|12/31/1997|
+0352|Converted apt - 5-6 class, 800-1000 sq.ft.|0|12/31/1997|
+0353|Converted apt - 5-6 class, 1000-1300 sq.ft.|0|12/31/1997|
+0354|Converted apt - 5-6 class, 1300-1500 sq.ft.|0|12/31/1997|
+0355|Converted apt - 5-6 class, 1500-1800 sq.ft.|0|12/31/1997|
+0356|Converted apt - 5-6 class, 1800-2000 sq.ft.|0|12/31/1997|
+0357|Converted apt - 5-6 class, 2000-2400 sq.ft.|0|12/31/1997|
+0358|Converted apt - 5-6 class, 2400 -up sq.ft.|0|12/31/1997|
+0360|Converted apt - 7-up class|0|12/31/1997|
+0361|Converted apt - 7-up class, 500-800 sq. ft.|0|12/31/1997|
+0362|Converted apt - 7-up class, 800-1000 sq.ft.|0|12/31/1997|
+0363|Converted apt - 7-up class, 1000-1300 sq.ft.|0|12/31/1997|
+0364|Converted apt - 7-up class, 1300-1500 sq.ft.|0|12/31/1997|
+0365|Converted apt - 7-up class, 1500-1800 sq.ft.|0|12/31/1997|
+0366|Converted apt - 7-up class, 1800-2000 sq.ft.|0|12/31/1997|
+0367|Converted apt - 7-up class, 2000-2400 sq.ft.|0|12/31/1997|
+0368|Converted apt - 7-up class, 2400 -up sq.ft.|0|12/31/1997|
+0370|Co-op 5-6 class|0|12/31/1997|
+0371|Co-op 5-6 class, 500-800 sq. ft.|0|12/31/1997|
+0372|Co-op 5-6 class, 800-1000 sq.ft.|0|12/31/1997|
+0373|Co-op 5-6 class, 1000-1300 sq.ft.|0|12/31/1997|
+0374|Co-op 5-6 class, 1300-1500 sq.ft.|0|12/31/1997|
+0375|Co-op 5-6 class, 1500-1800 sq.ft.|0|12/31/1997|
+0376|Co-op 5-6 class, 1800-2000 sq.ft.|0|12/31/1997|
+0377|Co-op 5-6 class, 2000-2400 sq.ft.|0|12/31/1997|
+0378|Co-op 5-6 class, 2400 -up sq.ft.|0|12/31/1997|
+0380|Co-op 7-up class|0|12/31/1997|
+0381|Co-op 7-up class, 500-800 sq. ft.|0|12/31/1997|
+0382|Co-op 7-up class, 800-1000 sq.ft.|0|12/31/1997|
+0383|Co-op 7-up class, 1000-1300 sq.ft.|0|12/31/1997|
+0384|Co-op 7-up class, 1300-1500 sq.ft.|0|12/31/1997|
+0385|Co-op 7-up class, 1500-1800 sq.ft.|0|12/31/1997|
+0386|Co-op 7-up class, 1800-2000 sq.ft.|0|12/31/1997|
+0387|Co-op 7-up class, 2000-2400 sq.ft.|0|12/31/1997|
+0388|Co-op 7-up class, 2400 -up sq.ft.|0|12/31/1997|
+0390|No Description Available|0|03/20/1998|
+0391|No Description Available|0|03/20/1998|
+0392|No Description Available|0||
+0397|No Description Available|0|03/20/1998|
+0399|Resale restriction|0||
+0400|Residential Rentals|0|12/31/1997|
+0402|No Description Available|0|03/20/1998|
+0403|No Description Available|0|03/20/1998|
+0404|No Description Available|0|03/20/1998|
+0411|No Description Available|0|03/20/1998|
+0412|No Description Available|0|03/20/1998|
+0420|No Description Available|0|03/20/1998|
+0421|Residential Rentals, 2 Units, 1 Building - Designed|0|12/31/1997|
+0422|Residential Rentals, 2 Units, 2 Building - Designed|0|12/31/1997|
+0423|Residential Rentals, 2 Units, 3 Building - Designed|0|12/31/1997|
+0424|Residential Rentals, 2 Units, 4 or more Buildings, Designed|0|12/31/1997|
+0425|Residential Rentals, 2 Units, 1 Building Converted|0|12/31/1997|
+0426|Residential Rentals, 2 Units, 2 Buildings Converted|0|12/31/1997|
+0427|Residential Rentals, 2 Units, 3 Buildings Converted|0|12/31/1997|
+0428|Residential Rentals, 2 Units, 4 or more Buildings Converted|0|12/31/1997|
+0429|Residential Rentals, 2 Units, Government Restriction|0|12/31/1997|
+0430|No Description Available|0|03/20/1998|
+0431|Residential Rentals, 3 Units, 1 Building - Designed|0|12/31/1997|
+0432|Residential Rentals, 3 Units, 2 Building - Designed|0|12/31/1997|
+0433|Residential Rentals, 3 Units, 3 Building - Designed|0|12/31/1997|
+0434|Residential Rentals, 3 Units, 4 or more Buildings, Designed|0|12/31/1997|
+0435|Residential Rentals, 3 Units, 1 Building Converted|0|12/31/1997|
+0436|Residential Rentals, 3 Units, 1 Building Converted|0|12/31/1997|
+0437|Residential Rentals, 3 Units, 3 Buildings Converted|0|12/31/1997|
+0438|Residential Rentals, 3 Units, 4 or more Buildings Converted|0|12/31/1997|
+0439|Residential Rentals, 3 Units, Government Restriction|0|12/31/1997|
+0440|No Description Available|0|03/20/1998|
+0441|Residential Rentals, 4 Units, 1 Building - Designed|0|12/31/1997|
+0442|Residential Rentals, 4 Units, 2 Building - Designed|0|12/31/1997|
+0443|Residential Rentals, 4 Units, 3 Building - Designed|0|12/31/1997|
+0444|Residential Rentals, 4 Units, 4 or more Buildings, Designed|0|12/31/1997|
+0445|Residential Rentals, 4 Units, 1 Building Converted|0|12/31/1997|
+0446|Residential Rentals, 4 Units, 1 Building Converted|0|12/31/1997|
+0447|Residential Rentals, 4 Units, 3 Buildings Converted|0|12/31/1997|
+0448|Residential Rentals, 4 Units, 4 or more Buildings Converted|0|12/31/1997|
+0449|Residential Rentals, 4 Units, Government Restriction|0|12/31/1997|
+0452|No Description Available|0|03/20/1998|
+0458|No Description Available|0|03/20/1998|
+0471|No Description Available|0||
+0479|Resale restriction|0||
+0481|Courts, 1 Building - Designed|0|12/31/1997|
+0482|Courts, 2 Building - Designed|0|12/31/1997|
+0483|Courts, 3 Building - Designed|0|12/31/1997|
+0484|Courts, 4 or more Buildings, Designed|0|12/31/1997|
+0485|Courts, 1 Building Converted|0|12/31/1997|
+0486|Courts, 2 Building Converted|0|12/31/1997|
+0487|Courts, 3 Buildings Converted|0|12/31/1997|
+0488|Courts, 4 or more Buildings Converted|0|12/31/1997|
+0489|Courts, Government Restriction|0|12/31/1997|
+0490|No Description Available|0|03/20/1998|
+0491|More than 4 Units, 1 Building - Designed|0|12/31/1997|
+0492|More than 4 Units, 2 Building - Designed|0|12/31/1997|
+0493|More than 4 Units, 3 Building - Designed|0|12/31/1997|
+0494|More than 4 Units, 4 or more Buildings, Designed|0|12/31/1997|
+0495|More than 4 Units, 1 Building Converted|0|12/31/1997|
+0496|More than 4 Units, 1 Building Converted|0|12/31/1997|
+0497|More than 4 Units, 3 Buildings Converted|0|12/31/1997|
+0498|More than 4 Units, 4 or more Buildings Converted|0|12/31/1997|
+0499|More than 4 Units, Government Restriction|0|12/31/1997|
+0500|Apartments (5 or more units)|0|12/31/1997|
+0501|Apartments, 100-149 Units|0|12/31/1997|
+0502|Apartments, 200-299 Units|0|12/31/1997|
+0503|Apartments, 300 Units and up|0|12/31/1997|
+0504|Apartments, 150-199 Units|0|12/31/1997|
+0505|Apartments, 5 Units|0|12/31/1997|
+0506|Apartments, 6 Units|0|12/31/1997|
+0507|Apartments, 7 Units|0|12/31/1997|
+0508|Apartments, 8 Units|0|12/31/1997|
+0509|Apartments, 9 Units|0|12/31/1997|
+0510|Apartments, 10 Units|0|12/31/1997|
+0511|Apartments, 11 Units|0|12/31/1997|
+0512|Apartments, 12 Units|0|12/31/1997|
+0513|Apartments, 13 Units|0|12/31/1997|
+0514|Apartments, 14 Units|0|12/31/1997|
+0515|Apartments, 15 Units|0|12/31/1997|
+0516|Apartments, 16 Units|0|12/31/1997|
+0517|Apartments, 17 Units|0|12/31/1997|
+0518|Apartments, 18 Units|0|12/31/1997|
+0519|Apartments, 19 Units|0|12/31/1997|
+0520|Apartments, 20 Units|0|12/31/1997|
+0521|Apartments, 21 Units|0|12/31/1997|
+0522|Apartments, 22 Units|0|12/31/1997|
+0523|Apartments, 23 Units|0|12/31/1997|
+0524|Apartments, 24 Units|0|12/31/1997|
+0525|Apartments, 25 Units|0|12/31/1997|
+0526|Apartments, 26 Units|0|12/31/1997|
+0527|Apartments, 27 Units|0|12/31/1997|
+0528|Apartments, 28 Units|0|12/31/1997|
+0529|Apartments, 29 Units|0|12/31/1997|
+0530|Apartments, 30 Units|0|12/31/1997|
+0531|Apartments, 31 Units|0|12/31/1997|
+0532|Apartments, 32 Units|0|12/31/1997|
+0533|Apartments, 33 Units|0|12/31/1997|
+0534|Apartments, 34 Units|0|12/31/1997|
+0535|Apartments, 35 Units|0|12/31/1997|
+0536|Apartments, 36 Units|0|12/31/1997|
+0537|Apartments, 37 Units|0|12/31/1997|
+0538|Apartments, 38 Units|0|12/31/1997|
+0539|Apartments, 39 Units|0|12/31/1997|
+0540|Apartments, 40 Units|0|12/31/1997|
+0541|Apartments, 41 Units|0|12/31/1997|
+0542|Apartments, 42 Units|0|12/31/1997|
+0543|Apartments, 43 Units|0|12/31/1997|
+0544|Apartments, 44 Units|0|12/31/1997|
+0545|Apartments, 45 Units|0|12/31/1997|
+0546|Apartments, 46 Units|0|12/31/1997|
+0547|Apartments, 47 Units|0|12/31/1997|
+0548|Apartments, 48 Units|0|12/31/1997|
+0549|Apartments, 49 Units|0|12/31/1997|
+0550|Apartments, 50 Units|0|01/05/1998|0
+0551|Apartments, 51 Units|0|01/05/1998|0
+0552|Apartments, 52 Units|0|01/05/1998|0
+0553|Apartments, 53 Units|0|01/05/1998|0
+0554|Apartments, 54 Units|0|01/05/1998|0
+0555|Apartments, 55 Units|0|01/05/1998|0
+0556|Apartments, 56 Units|0|01/05/1998|0
+0557|Apartments, 57 Units|0|01/05/1998|0
+0558|Apartments, 58 Units|0|01/05/1998|0
+0559|Apartments, 59 Units|0|01/05/1998|0
+0560|Apartments, 60 Units|0|01/05/1998|0
+0561|Apartments, 61 Units|0|01/05/1998|0
+0562|Apartments, 62 Units|0|01/05/1998|0
+0563|Apartments, 63 Units|0|01/05/1998|0
+0564|Apartments, 64 Units|0|01/05/1998|0
+0565|Apartments, 65 Units|0|01/05/1998|0
+0566|Apartments, 66 Units|0|01/05/1998|0
+0567|Apartments, 67 Units|0|01/05/1998|0
+0568|Apartments, 68 Units|0|01/05/1998|0
+0569|Apartments, 69 Units|0|01/05/1998|0
+0570|Apartments, 70 Units|0|01/05/1998|0
+0571|Apartments, 71 Units|0|01/05/1998|0
+0572|Apartments, 72 Units|0|01/05/1998|0
+0573|Apartments, 73 Units|0|01/05/1998|0
+0574|Apartments, 74 Units|0|01/05/1998|0
+0575|Apartments, 75 Units|0|01/05/1998|0
+0576|Apartments, 76 Units|0|01/05/1998|0
+0577|Apartments, 77 Units|0|01/05/1998|0
+0578|Apartments, 78 Units|0|01/05/1998|0
+0579|Apartments, 79 Units|0|01/05/1998|0
+0580|Apartments, 80 Units|0|01/05/1998|0
+0581|Apartments, 81 Units|0|01/05/1998|0
+0582|Apartments, 82 Units|0|01/05/1998|0
+0583|Apartments, 83 Units|0|01/05/1998|0
+0584|Apartments, 84 Units|0|01/05/1998|0
+0585|Apartments, 85 Units|0|01/05/1998|0
+0586|Apartments, 86 Units|0|01/05/1998|0
+0587|Apartments, 87 Units|0|01/05/1998|0
+0588|Apartments, 88 Units|0|01/05/1998|0
+0589|Apartments, 89 Units|0|01/05/1998|0
+0590|Apartments, 90 Units|0|01/05/1998|0
+0591|Apartments, 91 Units|0|01/05/1998|0
+0592|Apartments, 92 Units|0|01/05/1998|0
+0593|Apartments, 93 Units|0|01/05/1998|0
+0594|Apartments, 94 Units|0|01/05/1998|0
+0595|Apartments, 95 Units|0|01/05/1998|0
+0596|Apartments, 96 Units|0|01/05/1998|0
+0597|Apartments, 97 Units|0|01/05/1998|0
+0598|Apartments, 98 Units|0|01/05/1998|0
+0599|Apartments, 99 Units|0|01/05/1998|0
+0600|Bed & Breakfast|0|12/31/1997|
+0601|Bed & Breakfast, 1 Units|0|01/05/1998|0
+0602|Bed $ Breakfast, 2 Units|0|01/05/1998|0
+0603|Bed $ Breakfast, 3 Units|0|01/05/1998|0
+0604|Bed $ Breakfast, 4 Units|0|01/05/1998|0
+0605|Bed $ Breakfast, 5 Units|0|01/05/1998|0
+0606|Bed $ Breakfast, 6 Units|0|01/05/1998|0
+0607|Bed $ Breakfast, 7 Units|0|01/05/1998|0
+0608|Bed $ Breakfast, 8 Units|0|01/05/1998|0
+0609|Bed $ Breakfast, 9 Units|0|01/05/1998|0
+0610|Bed $ Breakfast, 10 Units|0|01/05/1998|0
+0611|Bed $ Breakfast, 11 Units|0|01/05/1998|0
+0612|Bed $ Breakfast, 12 Units|0|01/05/1998|0
+0613|Bed $ Breakfast, 13 Units|0|01/05/1998|0
+0614|Bed $ Breakfast, 14 Units|0|01/05/1998|0
+0615|Bed $ Breakfast, 15 Units|0|01/05/1998|0
+0616|Bed $ Breakfast, 16 Units|0|01/05/1998|0
+0617|Bed $ Breakfast, 17 Units|0|01/05/1998|0
+0618|Bed $ Breakfast, 18 Units|0|01/05/1998|0
+0619|Bed $ Breakfast, 19 Units|0|01/05/1998|0
+0620|Bed $ Breakfast, 20 Units|0|01/05/1998|0
+0621|Bed $ Breakfast, 21 Units|0|01/05/1998|0
+0622|Bed $ Breakfast, 22 Units|0|01/05/1998|0
+0623|Bed $ Breakfast, 23 Units|0|01/05/1998|0
+0624|Bed $ Breakfast, 24 Units|0|01/05/1998|0
+0625|Bed $ Breakfast, 25 Units|0|01/05/1998|0
+0626|Bed $ Breakfast, 26 Units|0|01/05/1998|0
+0627|Bed $ Breakfast, 27 Units|0|01/05/1998|0
+0628|Bed $ Breakfast, 28 Units|0|01/05/1998|0
+0629|Bed $ Breakfast, 29 Units|0|01/05/1998|0
+0630|Bed $ Breakfast, 30+ Units|0|01/05/1998|0
+0640|No Description Available|0|03/20/1998|
+0652|No Description Available|0|03/20/1998|
+0656|No Description Available|0|03/20/1998|
+0670|No Description Available|0||
+0676|No Description Available|0|03/20/1998|
+0691|No Description Available|0|07/02/1999|
+0695|No Description Available|0||
+0700|Hotels/Motels|0|12/31/1997|
+0701|Hotels/Motels, Under 25 Rooms|0|01/05/1998|0
+0702|Hotels/Motels, 25-49 Rooms|0|01/05/1998|0
+0703|No Description Available|0|03/20/1998|
+0705|Hotels/Motels, 50-99 Rooms|0|01/05/1998|0
+0707|No Description Available|0|03/20/1998|
+0709|No Description Available|0||
+0710|Hotels/Motels, 100-199 Rooms|0|01/05/1998|0
+0711|No Description Available|0||
+0712|No Description Available|0|03/20/1998|
+0714|No Description Available|0|03/20/1998|
+0717|No Description Available|0|03/20/1998|
+0720|Hotels/Motels, 200-299 Rooms|0|01/05/1998|0
+0725|No Description Available|0|03/20/1998|
+0726||0||
+0727|No Description Available|0||
+0730|Hotels/Motels, 300 & Up Rooms|0|01/05/1998|0
+0731|No Description Available|0||
+0733|No Description Available|0|04/14/1999|
+0734|No Description Available|0|03/20/1998|
+0740|No Description Available|0|03/20/1998|
+0741|No Description Available|0||
+0744|No Description Available|0|03/20/1998|
+0749|No Description Available|0|03/20/1998|
+0768|No Description Available|0||
+0771|No Description Available|0||
+0773|No Description Available|0||
+0775|No Description Available|0||
+0776|No Description Available|0|03/20/1998|
+0790|No Description Available|0|03/20/1998|
+0794|No Description Available|0|03/20/1998|
+0800|Mixed use-commercial/residential|0|03/20/1998|
+0802|No Description Available|0|03/20/1998|
+0811|No Description Available|0|03/20/1998|
+0812|No Description Available|0||
+0821|No Description Available|0||
+0822|No Description Available|0|07/11/1999|
+0824|No Description Available|0||
+0850|No Description Available|0||
+0852|No Description Available|0|03/20/1998|
+0853|No Description Available|0||
+0890|No Description Available|0|07/02/1999|
+0900|Mobile Home Parks|0|12/31/1997|
+0919|No Description Available|0|03/20/1998|
+0931|No Description Available|0|07/02/1999|
+0970|No Description Available|0|03/20/1998|
+0981|No Description Available|0|03/20/1998|
+0990|No Description Available|0|03/20/1998|
+0991|No Description Available|0|03/20/1998|
+1000|Commercial|0|12/31/1997|
+1001|No Description Available|0||
+1012|No Description Available|0||
+1035|No Description Available|0||
+1050|No Description Available|0|03/20/1998|
+1090|No Description Available|0|03/20/1998|
+1093|No Description Available|0||
+1098|No Description Available|0||
+1100|Retail Stores, Single Story|0|12/31/1997|
+1102|No Description Available|0|01/15/2000|
+1110|No Description Available|0||
+1111|No Description Available|0||
+1112|No Description Available|0||
+1114|No Description Available|0||
+1118|No Description Available|0||
+1150|No Description Available|0|03/20/1998|
+1165|No Description Available|0||
+1172|No Description Available|0||
+1175|No Description Available|0||
+1177|No Description Available|0||
+1190|No Description Available|0|03/20/1998|
+1193|No Description Available|0||
+1200|Store & Office Combination|0|12/31/1997|
+1209|No Description Available|0|12/17/1999|
+1210|No Description Available|0|03/20/1998|
+1212|No Description Available|0||
+1213|No Description Available|0||
+1223|No Description Available|0|03/20/1998|
+1231||0||
+1251|No Description Available|0||
+1280|No Description Available|0|03/20/1998|
+1281|No Description Available|0|04/14/1999|
+1285|No Description Available|0|04/14/1999|
+1300|Department Stores|0|12/31/1997|
+1312|No Description Available|0||
+1323|No Description Available|0|03/20/1998|
+1325||0||
+1330|No Description Available|0||
+1351|No Description Available|0|01/06/1999|
+1371|No Description Available|0|03/20/1998|
+1374|No Description Available|0|10/23/1999|
+1400|Super Markets|0|12/31/1997|
+1412|No Description Available|0||
+1413|No Description Available|0||
+1431|No Description Available|0||
+1433|No Description Available|0||
+1500|Shopping Centers (Neighborhood)|0|12/31/1997|
+1531|No Description Available|0|03/20/1998|
+1600|Shopping Centers (Regional)|0|12/31/1997|
+1630|No Description Available|0|03/20/1998|
+1674|No Description Available|0|03/20/1998|
+1700|Office Buildings (1 Story)|0|12/31/1997|
+1707|No Description Available|0|03/20/1998|
+1710|No Description Available|0||
+1740|No Description Available|0|03/20/1998|
+1790|No Description Available|0|03/20/1998|
+1800|Office Buildings (multi-story)|0|12/31/1997|
+1802|No Description Available|0|03/20/1998|
+1806|No Description Available|0|03/20/1998|
+1850|No Description Available|0|10/23/1999|
+1890|No Description Available|0||
+1900|Professional Buildings|0|12/31/1997|
+1909|No Description Available|0|03/20/1998|
+1910|No Description Available|0|03/20/1998|
+1933|No Description Available|0|03/20/1998|
+1990|No Description Available|0|03/20/1998|
+2000|No Description Available|0|03/20/1998|
+2001|No Description Available|0||
+2007|No Description Available|0||
+2024|No Description Available|0|03/20/1998|
+2090|No Description Available|0|03/20/1998|
+2100|Restaurants, Coctail Lounge|0|12/31/1997|
+2101|No Description Available|0|03/20/1998|
+2102|No Description Available|0|03/20/1998|
+2103|No Description Available|0|07/03/1999|
+2109|No Description Available|0|03/20/1998|
+2124|No Description Available|0||
+2134|No Description Available|0|03/20/1998|
+2190|No Description Available|0|03/20/1998|
+2200|Recreation|0|12/31/1997|
+2210|No Description Available|0|03/20/1998|
+2300|Commercial & Office Condos, PHDs|0|12/31/1997|
+2310|Store Area, Under 500 Sq'/Unit Area|0|01/05/1998|0
+2311|Store Area, 501 to 1000 Sq'/Unit Area|0|01/05/1998|0
+2312|Store Area, 1001 to 1600 Sq'/Unit Area|0|01/05/1998|0
+2313|Store Area, 1601 to 2400 Sq'/Unit Area|0|01/05/1998|0
+2314|Store Area, 2401 to 3600 Sq'/Unit Area|0|01/05/1998|0
+2315|Store Area, Over 3600 Sq'/Unit Area|0|01/05/1998|0
+2320|Store Area, Under 500 Sq'/Unit Area|0|01/05/1998|0
+2321|Store Area, 501 to 1000 Sq'/Unit Area|0|01/05/1998|0
+2322|Store Area, 1001 to 1600 Sq'/Unit Area|0|01/05/1998|0
+2323|Store Area, 1601 to 2400 Sq'/Unit Area|0|01/05/1998|0
+2324|Store Area, 2401 to 3600 Sq'/Unit Area|0|01/05/1998|0
+2325|Store Area, Over 3600 Sq'/Unit Area|0|01/05/1998|0
+2340|General Offices, Under 500 Sq'/Unit Area|0|01/05/1998|0
+2341|General Offices, 501 to 1000 Sq'/Unit Area|0|01/05/1998|0
+2342|General Offices,1001 to 1600 Sq'/Unit Area|0|01/05/1998|0
+2343|General Offices, 1601 to 2400 Sq'/Unit Area|0|01/05/1998|0
+2344|General Offices, 2401 to 3600 Sq'/Unit Area|0|01/05/1998|0
+2345|General Offices, Over 3600 Sq'/Unit Area|0|01/05/1998|0
+2350|General Offices, Under 500 Sq'/Unit Area|0|01/05/1998|0
+2351|General Offices, 501 to 1000 Sq'/Unit Area|0|01/05/1998|0
+2352|General Offices, 1001 to 1600 Sq'/Unit Area|0|01/05/1998|0
+2353|General Offices, 1601 to 2400 Sq'/Unit Area|0|01/05/1998|0
+2354|General Offices, 2401 to 3600 Sq'/Unit Area|0|01/05/1998|0
+2355|General Offices, Over 3600 Sq'/Unit Area|0|01/05/1998|0
+2370|Medical/Dental Offices, Under 500 Sq'/Unit Area|0|01/05/1998|0
+2371|Medical/Dental Offices, 501 to 1000 Sq'/Unit Area|0|01/05/1998|0
+2372|Medical/Dental Offices, 1001 to 1600 Sq'/Unit Area|0|01/05/1998|0
+2373|Medical/Dental Offices, 1601 to 2400 Sq'/Unit Area|0|01/05/1998|0
+2374|Medical/Dental Offices, 2401 to 3600 Sq'/Unit Area|0|01/05/1998|0
+2375|Medical/Dental Offices, Over 3600 Sq'/Unit Area|0|01/05/1998|0
+2380|Medical/Dental Offices, Under 500 Sq'/Unit Area|0|01/05/1998|0
+2381|Medical/Dental Offices, 501 to 1000 Sq'/Unit Area|0|01/05/1998|0
+2382|Medical/Dental Offices, 1001 to 1600 Sq'/Unit Area|0|01/05/1998|0
+2383|Medical/Dental Offices, 1601 to 2400 Sq'/Unit Area|0|01/05/1998|0
+2384|Medical/Dental Offices, 2401 to 3600 Sq'/Unit Area|0|01/05/1998|0
+2385|Medical/Dental Offices, Over 3600 Sq'/Unit Area|0|01/05/1998|0
+2400|Banks, S&L Assoc.|0|12/31/1997|
+2413||0||
+2472|No Description Available|0|03/20/1998|
+2500|Service Stations|0|12/31/1997|
+2600|Auto Sales, Repair, Storage, Rentals, Car Wash,etc|0|12/31/1997|
+2604|No Description Available|0|03/20/1998|
+2620|No Description Available|0||
+2622|No Description Available|0|03/20/1998|
+2680|No Description Available|0||
+2690|No Description Available|0|03/20/1998|
+2700|Parking Lot|0|12/31/1997|
+2720|No Description Available|0|03/20/1998|
+2790|No Description Available|0|03/20/1998|
+2800|Wholesale Laundry|0|12/31/1997|
+2810|No Description Available|0||
+2893|No Description Available|0|03/20/1998|
+2900|Nurseries, Greenhouses|0|12/31/1997|
+2902|No Description Available|0|03/20/1998|
+2990|No Description Available|0|03/20/1998|
+3000|Industrial|0|12/31/1997|
+3032|No Description Available|0|03/20/1998|
+3040|No Description Available|0||
+3090|No Description Available|0|03/20/1998|
+3100|Light Manufacturing|0|12/31/1997|
+3115|No Description Available|0|03/20/1998|
+3119|No Description Available|0|03/20/1998|
+3127|No Description Available|0|03/20/1998|
+3130|No Description Available|0|03/20/1998|
+3137|No Description Available|0||
+3140|No Description Available|0||
+3150|No Description Available|0|01/06/1999|
+3190|No Description Available|0|03/20/1998|
+3200|Warehousing|0|12/31/1997|
+3210|No Description Available|0|03/20/1998|
+3214|No Description Available|0|03/20/1998|
+3230|No Description Available|0||
+3272|No Description Available|0|10/23/1999|
+3290|No Description Available|0|03/20/1998|
+3300|Industrial Condos, free standing, C, under 1000 sq|0|12/31/1997|
+3301|Free standing, C construction, 1001-2000 Sq'/Unit|0|01/05/1998|0
+3302|Free standing, C construction, 2001-3500 Sq'/Unit|0|01/05/1998|0
+3303|Free standing, C construction, 3501-5000 Sq'/Unit|0|01/05/1998|0
+3304|Free standing, C construction, Over 5000 Sq'/Unit|0|01/05/1998|0
+3310|Row Units, C construction, under 1000 Sq'/Unit|0|01/05/1998|0
+3311|Row Units, C construction, 1001-2000 Sq'/Unit|0|01/05/1998|0
+3312|Row Units, C construction, 2001-3500 Sq'/Unit|0|01/05/1998|0
+3313|Row Units, C construction, 3501-5000 Sq'/Unit|0|01/05/1998|0
+3314|Row Units, C construction, Over 5000 Sq'/Unit|0|01/05/1998|0
+3320|Modular division, C construction under 1000 sq'/un|0|01/05/1998|0
+3321|Modular division, C construction, 1001-2000 sq'/un|0|01/05/1998|0
+3322|Modular division, C construction, 2001-3500 sq'/un|0|01/05/1998|0
+3323|Modular division, C construction, 3501-5000 sq'/un|0|01/05/1998|0
+3324|Modular division, C construction over, 5000 sq'/un|0|01/05/1998|0
+3325|No Description Available|0|04/14/1999|
+3330|Free standing, D construction, under 1000 Sq'/Unit|0|01/05/1998|0
+3331|Free standing, D construction, 1001-2000 Sq'/Unit|0|01/05/1998|0
+3332|Free standing, D construction, 2001-3500 Sq'/Unit|0|01/05/1998|0
+3333|Free standing, D construction, 3501-5000 Sq'/Unit|0|01/05/1998|0
+3334|Free standing, D construction, Over 5000 Sq'/Unit|0|01/05/1998|0
+3340|Row Units, D construction, under 1000 Sq'/Unit|0|01/05/1998|0
+3341|Row Units, D construction, 1001-2000 Sq'/Unit|0|01/05/1998|0
+3342|Row Units, D construction, 2001-3500 Sq'/Unit|0|01/05/1998|0
+3343|Row Units, D construction, 3501-5000 Sq'/Unit|0|01/05/1998|0
+3344|Row Units, D construction, Over 5000 Sq'/Unit|0|01/05/1998|0
+3350|Modular division, D construction under 1000 sq'/un|0|01/05/1998|0
+3351|Modular division, D construction, 1001-2000 sq'/un|0|01/05/1998|0
+3352|Modular division, D construction, 2001-3500 sq'/un|0|01/05/1998|0
+3353|Modular division, D construction, 3501-5000 sq'/un|0|01/05/1998|0
+3354|Modular division, D construction, over 5000 sq'/un|0|01/05/1998|0
+3360|Free standing, Steel, under 1000 Sq'/Unit|0|01/05/1998|0
+3361|Free standing, Steel, 1001-2000 Sq'/Unit|0|01/05/1998|0
+3362|Free standing, Steel, 2001-3500 Sq'/Unit|0|01/05/1998|0
+3363|Free standing, Steel, 3501-5000 Sq'/Unit|0|01/05/1998|0
+3364|Free standing, Steel, Over 5000 Sq'/Unit|0|01/05/1998|0
+3370|Row units, Steel, Under 1000 Sq'/Unit|0|01/05/1998|0
+3371|Row units, Steel, 1001-2000 Sq'/Unit|0|01/05/1998|0
+3372|Row units, Steel, 2001-3500 Sq'/Unit|0|01/05/1998|0
+3373|Row units, Steel, 3501-5000 Sq'/Unit|0|01/05/1998|0
+3374|Row units, Steel, Over 5000 Sq'/Unit|0|01/05/1998|0
+3380|Modular division, Steel, Under 1000 Sq'/Unit|0|01/05/1998|0
+3381|Modular division, Steel, 1001-2000 Sq'/Unit|0|01/05/1998|0
+3382|Modular division, Steel, 2001-3500 Sq'/Unit|0|01/05/1998|0
+3383|Modular division, Steel, 3501-5000 Sq'/Unit|0|01/05/1998|0
+3384|Modular division, Steel, Over 5000 Sq'/Unit|0|01/05/1998|0
+3390|No Description Available|0||
+3399|No Description Available|0|10/23/1999|
+3400|Packing Plants|0|12/31/1997|
+3407|No Description Available|0|03/20/1998|
+3409|No Description Available|0|03/20/1998|
+3410|No Description Available|0|03/20/1998|
+3411|No Description Available|0||
+3436|No Description Available|0|03/20/1998|
+3500|Lumber Yards, Mills|0|12/31/1997|
+3600|Other Food - Food Processing, Bakeries|0|12/31/1997|
+3700|Heavy Industry|0|12/31/1997|
+3800|Mineral Processing|0|12/31/1997|
+3900|Open Storage Bulk Plant|0|12/31/1997|
+3930||0||
+3947|No Description Available|0|03/20/1998|
+3990|No Description Available|0|03/20/1998|
+4000|Irrigated Farm|0|12/31/1997|
+4090|No Description Available|0|03/20/1998|
+4100|Orchards|0|12/31/1997|
+4111|Proper use, Avocados|0|01/09/1998|
+4112|Proper use, Lemons|0|01/09/1998|
+4113|Proper use, Avo/Lemons|0|01/09/1998|
+4114|Proper use, Walnuts|0|01/09/1998|
+4115|Proper use, Almonds|0|01/09/1998|
+4116|Proper use, Limes|0|01/09/1998|
+4117|Proper use, Oranges|0|01/09/1998|
+4118|Proper use, Other|0|01/09/1998|
+4121|Ag use, transitional, Avocados|0|01/09/1998|
+4122|Ag use, transitional, Lemons|0|01/09/1998|
+4123|Ag use, transitional, Avo/Lemons|0|01/09/1998|
+4124|Ag use, transitional, Walnuts|0|01/09/1998|
+4125|Ag use, transitional, Almonds|0|01/09/1998|
+4126|Ag use, transitional, Limes|0|01/09/1998|
+4127|Ag use, transitional, Oranges|0|01/09/1998|
+4128|Ag use, transitional, Other|0|01/09/1998|
+4129|No Description Available|0|03/20/1998|
+4131|Ag preserve, cont. restrict., Avocados|0|01/09/1998|
+4132|Ag preserve, cont. restrict, Lemons|0|01/09/1998|
+4133|Ag preserve, cont. restrict., Avo/Lemons|0|01/09/1998|
+4134|Ag preserve, cont. restrict., Walnuts|0|01/09/1998|
+4135|Ag preserve, cont. restrict., Almonds|0|01/09/1998|
+4136|Ag preserve, cont. restrict., Limes|0|01/09/1998|
+4137|Ag preserve, cont. restrict., Oranges|0|01/09/1998|
+4138|Ag preserve, contractual restrictions, other|0|01/09/1998|
+4141|Ag preserve, Notice of non-renewal, Avocados|0|01/09/1998|
+4142|Ag preserve, Notice of non-renewal, Lemons|0|01/09/1998|
+4143|Ag preserve, Notice of non-renewal, Avo/Lemons|0|01/09/1998|
+4144|Ag preserve, Notice of non-renewal, Walnuts|0|01/09/1998|
+4145|Ag preserve, Notice of non-renewal, Almonds|0|01/09/1998|
+4146|Ag preserve, Notice of non-renewal, Limes|0|01/09/1998|
+4147|Ag preserve, Notice of non-renewal, Oranges|0|01/09/1998|
+4148|Ag preserve, Notice of non-renewal, Other|0|01/09/1998|
+4151|Government owned, Avocados|0|01/09/1998|
+4152|Government owned, Lemons|0|01/09/1998|
+4153|Government owned, Avo/Lemons|0|01/09/1998|
+4154|Government owned, Walnuts|0|01/09/1998|
+4155|Government owned, Almonds|0|01/09/1998|
+4156|Government owned, Limes|0|01/09/1998|
+4157|Government owned, Oranges|0|01/09/1998|
+4158|Government owned, Other|0|01/09/1998|
+4183||0||
+4190|No Description Available|0|03/20/1998|
+4191|No Description Available|0|03/20/1998|
+4192|No Description Available|0|03/20/1998|
+4193|No Description Available|0|03/20/1998|
+4194|No Description Available|0|03/20/1998|
+4199|No Description Available|0|03/20/1998|
+4200|Vineyards|0|12/31/1997|
+4211|proper use, table grapes- red|0|01/09/1998|
+4212|proper use, table grapes- white|0|01/09/1998|
+4213|proper use, wine grapes- red|0|01/09/1998|
+4214|proper use, wine grapes- white|0|01/09/1998|
+4215|proper use, varietal|0|01/09/1998|
+4216|proper use, other|0|01/09/1998|
+4220|No Description Available|0||
+4221|Ag use, transitional, table grapes- red|0|01/09/1998|
+4222|Ag use, transitional, table grapes- white|0|01/09/1998|
+4223|Ag use, transitional, wine grapes- red|0|01/09/1998|
+4224|Ag use, transitional, wine grapes- white|0|01/09/1998|
+4225|Ag use, transitional, varietal|0|01/09/1998|
+4226|Ag use, transitional, other|0|01/09/1998|
+4231|Ag preserve, cont. restrict., table grapes- red|0|01/09/1998|
+4232|Ag preserve, cont. restrict., table grapes- white|0|01/09/1998|
+4233|Ag preserve, cont. restrict., wine grapes- red|0|01/09/1998|
+4234|Ag preserve, cont. restrict., wine grapes- white|0|01/09/1998|
+4235|Ag preserve, cont. restrict., varietal|0|01/09/1998|
+4236|Ag preserve, cont. restrict., other|0|01/09/1998|
+4241|Ag preserve, Notice non-renewal, table grapes- red|0|01/09/1998|
+4242|Ag preserve, Notice non-renewal, tablegrapes-white|0|01/09/1998|
+4243|Ag preserve, Notice non-renewal, wine grapes- red|0|01/09/1998|
+4244|Ag preserve, Notice non-renewal, wine grapes-white|0|01/09/1998|
+4245|Ag preserve, Notice non-renewal, varietal|0|01/09/1998|
+4246|Ag preserve, Notice non-renewal, other|0|01/09/1998|
+4251|Govt. owned, table grapes- red|0|01/09/1998|
+4252|Govt. owned, table grapes- white|0|01/09/1998|
+4253|Govt. owned, wine grapes- red|0|01/09/1998|
+4254|Govt. owned, wine grapes-white|0|01/09/1998|
+4255|Govt. owned, varietal|0|01/09/1998|
+4256|Govt. owned, other|0|01/09/1998|
+4300|Vines & Bush Plants|0|12/31/1997|
+4311|Proper use, Share Crop- 1/3|0|01/09/1998|
+4312|Proper use, Share Crop- 1/4|0|01/09/1998|
+4313|Proper use, Share Crop- 1/5|0|01/09/1998|
+4314|Proper use, Cash rent over $400/ac.|0|01/09/1998|
+4315|Proper use, Cash rent $300-400|0|01/09/1998|
+4316|Proper use, Cash rent $150-300|0|01/09/1998|
+4317|Proper use, Cash rent under $150|0|01/09/1998|
+4319|Income does not apply|0|01/09/1998|
+4321|Ag use, transitional, share crop- 1/3|0|01/09/1998|
+4322|Ag use, transitional, share crop- 1/4|0|01/09/1998|
+4323|Ag use, transitional, share crop- 1/5|0|01/09/1998|
+4324|Ag use, transitional, cash rent over $400/ac|0|01/09/1998|
+4325|Ag use, transitional, cash rent $300-400/ac.|0|01/09/1998|
+4326|Ag use, transitional, cash rent $ 150-300|0|01/09/1998|
+4327|Ag use, transitional, cash rent under $150/ac|0|01/09/1998|
+4329|Income does not apply|0|01/09/1998|
+4331|Ag preserve, cont. restrict., share crop- 1/3|0|01/09/1998|
+4332|Ag preserve, cont. restrict., share crop- 1/4|0|01/09/1998|
+4333|Ag preserve, cont. restrict., share crop- 1/5|0|01/09/1998|
+4334|Ag preserve, cont. restrict., cash rent over$400ac|0|01/09/1998|
+4335|Ag preserve, cont. restrict., cash rent $300-400ac|0|01/09/1998|
+4336|Ag preserve, cont. restrict., cash rent $150-300ac|0|01/09/1998|
+4337|Ag preserve, cont. restrict., cash rent under $150|0|01/09/1998|
+4339|Income does not apply|0|01/09/1998|
+4341|Ag preserve, Notice non-renewal, share crop- 1/3|0|01/09/1998|
+4342|Ag preserve, Notice non-renewal, share crop- 1/4|0|01/09/1998|
+4343|Ag preserve, Notice non-renewal, share crop- 1/5|0|01/09/1998|
+4344|Ag preserve, Notice non-renewal, cash rent over $400ac|0|01/09/1998|
+4345|Ag preserve, Notice non-renewal, cash rent $300-400 ac|0|01/09/1998|
+4346|Ag preserve, Notice" non-renewal, cash rent $150-300 ac|0|01/09/1998|
 4347|Ag preserve, Notice non-renewal, cash rent under $150ac|0|01/09/1998|
 4349|Income does not apply|0|01/09/1998|
 4351|Govt. owned, share crop- 1/3|0|01/09/1998|
@@ -2002,4 +1429,3 @@ UseCode.CodeDesc.CdeRetireFlg.RecDateTime.RecUserId
 9900|No Description Available|0|03/20/1998|
 9999|No Description Available|0|03/20/1998|
 UNK|Unknown|0|03/20/1998|
-"

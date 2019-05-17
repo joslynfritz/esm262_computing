@@ -10,9 +10,6 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 
 library(tidyverse)
-library(dplyr)
-library(naniar)
-library(data.table)
 
 ```
 
@@ -57,39 +54,40 @@ parcel_written
 
 **1. What are the 10 most-frequently-occuring land uses (in descending order)?**
 
-```{r 1, most frequenct land uses}
+```{r one most frequenct land uses}
 
-usecodes <- read_delim(
-    "UseCodes.csv",
-    delim = "|",
-    col_types = cols(.default = col_character())) %>% 
-  select(UseCode, CodeDesc) %>% 
+usecodes <- read_delim("UseCodes.csv", "|", escape_double = FALSE, trim_ws = TRUE) %>% 
+  select("UseCode", "CodeDesc") %>% 
   replace_with_na(replace = list(CodeDesc = c("No Description Available")))
 # read in usecodes file
 
+# ,col_types = cols(.default = col_character()), delim = "."
 
 parcel_10 <- parcels %>% 
   left_join(usecodes, by = "UseCode") %>% 
   filter(!is.na(CodeDesc)) %>% 
   group_by(UseCode) %>% 
   count(CodeDesc) %>% 
-  arrange(-n) %>% 
+  arrange(-n) %>% # summarize() will not work here because they are not numeric values.
   head(10) 
+parcel_10
 # Joined parcels and usecodes
+
+
 
 ```
 
 
 **2. How many acres are in agricultural preserves?**
 
-```{r 2, acres in ag preserves}
+```{r two acres in ag preserves}
 
 ag_acre <- parcels %>% 
   filter(!is.na(AgPres)) %>% 
   select(Acreage, AgPres) 
   
 ag_acre_sum <- sum(ag_acre$Acreage)
-# 547153.3501
+# 549,563.3511
 # Summed the acres in the agricultural preserve
 
 ```
@@ -97,30 +95,24 @@ ag_acre_sum <- sum(ag_acre$Acreage)
 
 **3. What is the mean net assessed value per acre of the entire county?**
 
-```{r 3, mean net assessed value per acre of county}
+```{r three mean net assessed value per acre of county}
 
 value_per_acre <- parcels %>% 
- select(Acreage, Net_AV) 
+ mutate(Net_AV/Acreage) %>% 
+  filter(!is.na(Net_AV/Acreage)) %>% 
+  filter(!is.infinite(Net_AV/Acreage))
 
 value_per_acre
 
-# Reorganized dataframe
-
-NetAV_sum<- (sum(value_per_acre$Net_AV))
-
-acre_sum <- sum(value_per_acre$Acreage) 
-
-# Summed up the Net_AV and the Acreage
-
-NAV_per_acre <- NetAV_sum/acre_sum
-NAV_per_acre 
+mean(value_per_acre$`Net_AV/Acreage`)
+# 1,635,938
 
 ```
 
 
 **4. What is the total net assessed value of all non-taxable parcels?**
 
-```{r 4, total net value of all non-tax parcels}
+```{r four total net value of all non-tax parcels}
 
 nontax_parcels <- parcels %>% 
   select(NonTaxCode, Net_AV) %>% 
@@ -135,7 +127,7 @@ nontax_parcels_sum
 
 **5. What are the 10 largest property holders, by acreage?**
 
-```{r 5, ten largest property holders, by acreage}
+```{r five ten largest property holders, by acreage}
 
 largest_prop_byacre <- parcels %>% 
   select(Acreage, M_Address1, M_Address2) %>% 
@@ -145,6 +137,7 @@ largest_prop_byacre <- parcels %>%
   summarize(sum_acreage = sum(Acreage)) %>% 
   arrange(-sum_acreage) %>% # descending order (-)
   head(10) # shows top ten
+largest_prop_byacre
 
 # Listing the top 10 largest property holders by acreage
 
@@ -153,16 +146,17 @@ largest_prop_byacre <- parcels %>%
 
 **6. What are the 10 largest property holders, by net assessed value?**
 
-```{r 6, ten largest prop holders, by Net_AV}
+```{r six ten largest prop holders, by Net_AV}
 
 parcel_prop_NAV <- parcels %>% 
   select(Net_AV, M_Address1, M_Address2) %>% 
-  filter(!is.na(M_Address1)) %>% 
+  filter(!is.na(M_Address1)) %>%  # !is.na filters everything that is NOT na
   filter(!is.na(M_Address2)) %>% 
   group_by(M_Address1, M_Address2) %>% 
   summarize(sum_NAV = sum(Net_AV)) %>% 
   arrange(-sum_NAV) %>% 
   head(10) 
+parcel_prop_NAV
 
 # Listing the 10 largest property holders by Net Assesed Value in descending order
 
